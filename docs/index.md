@@ -1,3 +1,3 @@
 # Welcome to MkDocs
 
-![Drivkedjan på Romet Ogar 202](../bilder/startsida/IMG_20260804_132730.jpeg)
+![Romet Ogar 202](../bilder/startsida/IMG_20260804_132730.jpeg)

@@ -3,13 +3,54 @@ site_name: Romet Ogar 202
 theme:
   name: material
   language: sv
+  features:
+    - navigation.sections
+    - navigation.indexes
+    - navigation.path
+    - navigation.top
 
 nav:
   - Hem: index.md
 
-  - Service:
-      - Kedja: service/kedja.md
-      - Motorolja: service/motorolja.md
+  - Mopeden:
+      - mopeden/index.md
+      - Specifikationer: mopeden/specifikationer.md
+      - Manualer och källor: mopeden/manualer-och-kallor.md
 
-  - Hjul:
-      - Ekrar: hjul/ekrar.md
+  - Service:
+      - service/index.md
+      - Serviceintervall: service/serviceintervall.md
+      - Motorolja: service/motorolja.md
+      - Kedja: service/kedja.md
+      - Ventilspel: service/ventilspel.md
+      - Tändstift: service/tandstift.md
+      - Luftfilter: service/luftfilter.md
+      - Bränslefilter: service/branslefilter.md
+      - Hjulkontroll: service/hjulkontroll.md
+      - Bromskontroll: service/bromskontroll.md
+
+  - Hjul och däck:
+      - hjul-och-dack/index.md
+      - Däck: hjul-och-dack/dack.md
+      - Ekrar: hjul-och-dack/ekrar.md
+      - Rikta hjul: hjul-och-dack/rikta-hjul.md
+
+  - Bromsar:
+      - bromsar/index.md
+      - Frambroms: bromsar/frambroms.md
+      - Bakbroms: bromsar/bakbroms.md
+
+  - El och bränsle:
+      - el-och-bransle/index.md
+      - Batteri: el-och-bransle/batteri.md
+      - Tändning: el-och-bransle/tandning.md
+      - Insprutning: el-och-bransle/insprutning.md
+
+  - Felsökning:
+      - felsokning/index.md
+      - Startproblem: felsokning/startproblem.md
+      - Vibrationer: felsokning/vibrationer.md
+
+  - Historik:
+      - historik/index.md
+      - Servicejournal: historik/servicejournal.md

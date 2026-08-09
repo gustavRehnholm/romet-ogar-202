@@ -3,15 +3,20 @@
 Här dokumenteras kontroll, rengöring, smörjning och justering
 av drivkedjan på Romet Ogar 202.
 
+Innan man börjar bör man se till att ha: 
+* depåmatta
+* wd40 eller 5-56
+* spruta med trubbig spets 
+
 
 ## Rengöring
 
-finns många skolor i hur man ska rengöra en kedja, men själv så har ajg haft gott resultat med wd40 och 5-56.
+finns många skolor i hur man ska rengöra en kedja, men själv så har jag haft gott resultat med wd40 och 5-56. Spaya rikligt och torka rent med en trasa. 
 
 
 ## Smörjning
 
-går att ha special medel, men motorolja (som man redan har hemma) kommer man långt med. Använd t.ex. en spruta för applicering
+går att ha special medel, men motorolja (som man redan har hemma) kommer man långt med. Använd t.ex. en spruta för applicering på varje länk. Torka bort överflöd med trasa. 
 
 
 ## Kontroll av kedjespel

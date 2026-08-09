@@ -1,0 +1,15 @@
+site_name: Romet Ogar 202
+
+theme:
+  name: material
+  language: sv
+
+nav:
+  - Hem: index.md
+
+  - Service:
+      - Kedja: service/kedja.md
+      - Motorolja: service/motorolja.md
+
+  - Hjul:
+      - Ekrar: hjul/ekrar.md

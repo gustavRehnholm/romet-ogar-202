@@ -6,7 +6,8 @@ av drivkedjan på Romet Ogar 202.
 Innan man börjar bör man se till att ha: 
 * depåmatta
 * wd40 eller 5-56
-* spruta med trubbig spets 
+* spruta med trubbig spets
+* flertal rena bomulls trasor
 
 
 ## Rengöring

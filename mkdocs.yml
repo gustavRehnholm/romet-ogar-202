@@ -19,17 +19,17 @@ nav:
     - Delar och dimensioner: mopeden/delar-och-dimensioner.md
     - Manualer och källor: mopeden/manualer-och-kallor.md
 
-  - Service:
-      - service/index.md
-      - Serviceintervall: service/serviceintervall.md
-      - Motorolja: service/motorolja.md
-      - Kedja: service/kedja.md
-      - Ventilspel: service/ventilspel.md
-      - Tändstift: service/tandstift.md
-      - Luftfilter: service/luftfilter.md
-      - Bränslefilter: service/branslefilter.md
-      - Hjulkontroll: service/hjulkontroll.md
-      - Bromskontroll: service/bromskontroll.md
+- Service:
+  - service/index.md
+  - Serviceintervall: service/serviceintervall.md
+  - Motorolja: service/motorolja.md
+  - Kedja: service/kedja.md
+  - Ventilspel: service/ventilspel.md
+  - Tändstift: service/tandstift.md
+  - Luftfilter: service/luftfilter.md
+  - Bränslefilter: service/branslefilter.md
+  - Hjulkontroll: service/hjulkontroll.md
+  - Bromskontroll: service/bromskontroll.md
 
   - Hjul och däck:
       - hjul-och-dack/index.md

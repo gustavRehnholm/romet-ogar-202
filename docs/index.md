@@ -1,39 +1,34 @@
 # Romet Ogar 202
 
-![Romet Ogar 202](../bilder/startsida/IMG_20260804_132730.jpeg)
+Dokumentation om **Romet Ogar 202, årsmodell 2022**, med fokus på service, underhåll, reparationer, felsökning och tekniska uppgifter.
 
-Dokumentation om **Romet Ogar 202, årsmodell 2022**, med fokus på service, underhåll, reparationer och tekniska uppgifter.
-
-Syftet med sidan är att samla information som annars är svår att hitta och samtidigt dokumentera praktiska erfarenheter från arbete på mopeden.
+Syftet är att samla information som annars är svår att hitta och samtidigt dokumentera praktiska erfarenheter från arbete på mopeden.
 
 ## Service och underhåll
 
-Här finns återkommande servicepunkter och kontroller.
+Här finns återkommande servicepunkter, kontroller och instruktioner för underhåll av mopeden.
 
-* [Serviceintervall](service/serviceintervall.md)
-* [Motorolja](service/motorolja.md)
-* [Kedja](service/kedja.md)
-* [Ventilspel](service/ventilspel.md)
-* [Tändstift](service/tandstift.md)
-* [Luftfilter](service/luftfilter.md)
-* [Bränslefilter](service/branslefilter.md)
-* [Hjulkontroll](service/hjulkontroll.md)
-* [Bromskontroll](service/bromskontroll.md)
+* [Serviceintervall](service/serviceintervall.md) – vad som bör göras och när
+* [Service och underhåll](service/index.md) – instruktioner för samtliga servicepunkter
+
+Dokumentationen omfattar bland annat motorolja, ventilspel, tändstift, bränslesystem, luftfilter, bromsar, kedja och drev, elsystem samt kontroll av hjul, styrning och fjädring.
 
 [**Se all serviceinformation →**](service/index.md)
 
 ## Mopeden
 
-Grundläggande information om modellen, tekniska specifikationer och dokumentation.
+Grundläggande information om Romet Ogar 202 och dess komponenter.
 
 * [Specifikationer](mopeden/specifikationer.md)
 * [Manualer och källor](mopeden/manualer-och-kallor.md)
+
+Här samlas även identifierade reservdelar, dimensioner och tekniska uppgifter som kan vara användbara vid service och reparation.
 
 [**Läs mer om mopeden →**](mopeden/index.md)
 
 ## Hjul och däck
 
-Information om däck, ekrar och hjul.
+Mer detaljerad information om hjul och däck, utöver den återkommande kontroll som ingår i servicen.
 
 * [Däck](hjul-och-dack/dack.md)
 * [Ekrar](hjul-och-dack/ekrar.md)
@@ -41,30 +36,35 @@ Information om däck, ekrar och hjul.
 
 ## Bromsar
 
-Information om fram- och bakbroms, justering och underhåll.
+Information om bromssystemets konstruktion, justering och reparation.
 
 * [Frambroms](bromsar/frambroms.md)
 * [Bakbroms](bromsar/bakbroms.md)
 
+Den återkommande funktionskontrollen finns under [Bromskontroll](service/bromskontroll.md).
+
 ## Felsökning
 
-Anteckningar och erfarenheter kring vanliga problem.
+Felsökningen är organiserad efter symptom och används när mopeden inte beter sig normalt.
 
-* [Startproblem](felsokning/startproblem.md)
-* [Vibrationer](felsokning/vibrationer.md)
+* [Onormala motorljud](felsokning/motorljud.md)
+
+Här kommer bland annat information om startproblem, ojämn motorgång, vibrationer, elektriska problem och problem med drivlinan att samlas.
+
+[**Se felsökning →**](felsokning/index.md)
 
 ## Historik
 
-Dokumentation över service, reparationer och ändringar.
+Dokumentation över utförd service, reparationer och ändringar på mopeden.
 
 * [Servicejournal](historik/servicejournal.md)
 
 ---
 
 !!! info "Om informationen"
-Dokumentationen bygger på en kombination av tillgängliga manualer och specifikationer, praktiska observationer och arbete på en Romet Ogar 202.
+Dokumentationen bygger på en kombination av tillgängliga manualer och specifikationer, teknisk dokumentation för relaterade komponenter och motorfamiljer samt praktiska observationer från arbete på en Romet Ogar 202.
 
 ```
-Där det är relevant skiljs tillverkaruppgifter från egna mätningar och observationer. Uppgifter som ännu inte har kunnat verifieras bör betraktas som preliminära.
+Där det är relevant skiljs modellspecifika uppgifter från referensdata och egna observationer. Uppgifter som ännu inte har kunnat verifieras markeras som preliminära.
 ```
 

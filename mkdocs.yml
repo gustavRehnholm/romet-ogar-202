@@ -13,46 +13,61 @@ nav:
   - Hem: index.md
 
   - Mopeden:
-      - mopeden/index.md
+      - Översikt: mopeden/index.md
       - Specifikationer: mopeden/specifikationer.md
       - Identifiering och modell: mopeden/identifiering.md
       - Delar och dimensioner: mopeden/delar-och-dimensioner.md
       - Manualer och källor: mopeden/manualer-och-kallor.md
 
   - Service:
-      - service/index.md
+      - Översikt: service/index.md
       - Serviceintervall: service/serviceintervall.md
-      - Motorolja: service/motorolja.md
-      - Kedja: service/kedja.md
-      - Ventilspel: service/ventilspel.md
-      - Tändstift: service/tandstift.md
-      - Luftfilter: service/luftfilter.md
-      - Bränslefilter: service/branslefilter.md
-      - Hjulkontroll: service/hjulkontroll.md
-      - Bromskontroll: service/bromskontroll.md
+
+      - Motor:
+          - Motorolja: service/motorolja.md
+          - Tändstift: service/tandstift.md
+          - Ventilspel: service/ventilspel.md
+          - Luftfilter: service/luftfilter.md
+          - Avgassystem: service/avgassystem.md
+
+      - Bränslesystem:
+          - Bränslesystem / tomgång: service/branslesystem-tomgang.md
+          - Bränslefilter: service/branslefilter.md
+
+      - Drivlina:
+          - Koppling och växellåda: service/koppling-vaxellada.md
+          - Kedja och drev: service/kedja.md
+
+      - Bromsar och chassi:
+          - Bromskontroll: service/bromskontroll.md
+          - Hjul, styrning och fjädring: service/hjul-styrning-fjadring.md
+
+      - Elsystem: service/elsystem.md
+      - Allmän kontroll: service/allman-kontroll.md
 
   - Hjul och däck:
-      - hjul-och-dack/index.md
+      - Översikt: hjul-och-dack/index.md
       - Däck: hjul-och-dack/dack.md
       - Ekrar: hjul-och-dack/ekrar.md
       - Rikta hjul: hjul-och-dack/rikta-hjul.md
 
   - Bromsar:
-      - bromsar/index.md
+      - Översikt: bromsar/index.md
       - Frambroms: bromsar/frambroms.md
       - Bakbroms: bromsar/bakbroms.md
 
   - El och bränsle:
-      - el-och-bransle/index.md
+      - Översikt: el-och-bransle/index.md
       - Batteri: el-och-bransle/batteri.md
       - Tändning: el-och-bransle/tandning.md
       - Insprutning: el-och-bransle/insprutning.md
 
   - Felsökning:
-      - felsokning/index.md
+      - Översikt: felsokning/index.md
+      - Onormala motorljud: felsokning/motorljud.md
       - Startproblem: felsokning/startproblem.md
       - Vibrationer: felsokning/vibrationer.md
 
   - Historik:
-      - historik/index.md
+      - Översikt: historik/index.md
       - Servicejournal: historik/servicejournal.md

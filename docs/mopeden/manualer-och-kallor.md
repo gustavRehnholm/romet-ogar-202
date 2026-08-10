@@ -82,6 +82,46 @@ Exempel på innehåll:
 
 Informationen kommer från en enskild ägares erfarenheter och bör därför inte behandlas som tillverkardokumentation. Utförandet på mopeden kan också skilja mellan årsmodeller.
 
+
+### Motocykle Wińscy
+
+[Motocykle Wińscy – Romet Ogar 202 50](https://sklep.skutery.olsztyn.pl/pl/c/Ogar-202-50/481)
+
+Polsk motorcykelverkstad och återförsäljare med modellspecifika servicedata för Romet Ogar 202 50.
+
+Anger bland annat:
+
+* ventilspel
+* motoroljetyp och oljemängd
+* tändstift
+
+Källan är användbar som kompletterande servicedata, men är inte officiell dokumentation från Romet.
+
+
+### Sachs MadAss 50 – FY139FMB Service Manual
+
+Verkstadshandbok för Sachs MadAss 50 med **FY139FMB-motor**.
+
+Användbar som teknisk referens för den 139FMB-motorfamilj som Romet Ogar 202 FI Euro 5 tillhör.
+
+Innehåller bland annat information om:
+
+* kamkedja och kamkedjespännare
+* ventilmekanism
+* topplock och cylinder
+* motorblock
+* koppling och växellåda
+* elsystem
+* felsökning
+* kontrollmått och slitgränser
+
+!!! note
+Handboken gäller inte specifikt Romet Ogar 202. Uppgifter som mått, toleranser och åtdragningsmoment bör därför betraktas som referensvärden tills de har verifierats för Ogar 202 FI Euro 5.
+
+[Sachs MadAss 50 – FY139FMB Service Manual](https://scootergrisen.org/scooterhjemmeside/download/sachs_madass_servicemanual_2.pdf)
+
+
+
 ## Egna observationer och mätningar
 
 En del av dokumentationen bygger på observationer och kontroller av det exemplar av **Romet Ogar 202 årsmodell 2022** som dokumentationen utgår från.

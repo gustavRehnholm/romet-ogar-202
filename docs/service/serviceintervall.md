@@ -17,29 +17,22 @@ Det som inträffar först av körsträcka och tid används.
 
 Om inget annat anges gäller åtgärden vid samtliga ordinarie servicetillfällen.
 
-| Servicepunkt                      | Åtgärd                                  | Avvikelse vid första service |
-| --------------------------------- | --------------------------------------- | ---------------------------- |
-| [Motorolja](motorolja.md)         | Byt                                     |                              |
-| [Tändstift](tandstift.md)         | Kontrollera, byt vid behov              | Byt                          |
-| [Ventilspel](ventilspel.md)       | Justera                                 |                              |
-| Kamkedja                          | Kontrollera, åtgärda vid behov          |                              |
-| Bränslesystem / tomgång           | Kontrollera, åtgärda vid behov          |                              |
-| [Bränslefilter](branslefilter.md) | Byt                                     | Kontrollera, åtgärda vid behov |
-| Smörjsystem                       | Kontrollera, åtgärda vid behov          |                              |
-| [Luftfilter](luftfilter.md)       | Kontrollera, rengör eller byt vid behov |                              |
-| Avgassystem                       | Kontrollera läckage och rost            |                              |
-| Elsystem och belysning            | Kontrollera, åtgärda vid behov          |                              |
-| Batteri                           | Kontrollera, åtgärda vid behov          |                              |
-| [Bromskontroll](bromskontroll.md) | Kontrollera, åtgärda vid behov          |                              |
-| Koppling                          | Kontrollera, åtgärda vid behov          |                              |
-| Växellåda                         | Kontrollera, åtgärda vid behov          |                              |
-| [Kedja](kedja.md) och drev        | Kontrollera, åtgärda vid behov          |                              |
-| [Hjulkontroll](hjulkontroll.md)   | Kontrollera, åtgärda vid behov          |                              |
-| Fjädring                          | Kontrollera, åtgärda vid behov          |                              |
-| Styrlager                         | Kontrollera, åtgärda vid behov          |                              |
-| Stöd                              | Kontrollera, åtgärda vid behov          |                              |
-| Bultförband                       | Kontrollera, åtgärda vid behov          |                              |
-| Provkörning                       | Kontrollera funktion                    |                              |
+| Servicepunkt                           | Åtgärd                                      | Avvikelse vid första service |
+| -------------------------------------- | ------------------------------------------- | ---------------------------- |
+| [Motorolja](motorolja.md)              | Byt                                         |                              |
+| [Tändstift](tandstift.md)              | Inspektera, byt vid behov                   | Byt                          |
+| [Ventilspel](ventilspel.md)            | Justera                                     |                              |
+| [Bränslesystem / tomgång](branslesystem-tomgang.md) | Kontrollera, åtgärda vid behov |                              |
+| [Bränslefilter](branslefilter.md)      | Byt                                         | Inspektera                   |
+| [Luftfilter](luftfilter.md)            | Inspektera, rengör eller byt vid behov      |                              |
+| [Avgassystem](avgassystem.md)          | Inspektera efter läckage och rost           |                              |
+| [Elsystem](elsystem.md)                | Inspektera                                  |                              |
+| [Bromskontroll](bromskontroll.md)      | Inspektera                                  |                              |
+| [Koppling och växellåda](koppling-vaxellada.md)         | Inspektera                                  |                              |
+| [Kedja och drev](kedja.md)             | Vårda och inspektera                        |                              |
+| [Hjul, styrning och fjädring](hjul-styrning-fjadring.md)      | Inspektera                                  |                              |
+| [Allmän Kontroll](allman-kontroll.md) | Inspektera                                  |                              |
+
 ## Löpande underhåll
 
 Vissa kontroller och underhållspunkter bör utföras oftare än den ordinarie servicen.

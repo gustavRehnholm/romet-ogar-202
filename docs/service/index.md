@@ -1,19 +1,45 @@
 # Service och underhåll
 
-Den här delen samlar service, kontroller och löpande underhåll för **Romet Ogar 202, årsmodell 2022**.
+Här samlas information om service och löpande underhåll av **Romet Ogar 202**.
 
-Se [Serviceintervall](serviceintervall.md) för en samlad översikt över när olika punkter bör kontrolleras eller åtgärdas.
+Börja med [Serviceintervall](serviceintervall.md) för att se **när** olika servicepunkter ska utföras. Sidorna nedan beskriver sedan **hur** respektive kontroll eller åtgärd genomförs.
 
-## Servicepunkter
+## Motor
 
-* [Motorolja](motorolja.md) – kontroll och byte av motorolja.
-* [Kedja](kedja.md) – kontroll, rengöring, smörjning och justering.
-* [Ventilspel](ventilspel.md) – kontroll och justering av ventilspel.
-* [Tändstift](tandstift.md) – kontroll och byte.
-* [Luftfilter](luftfilter.md) – kontroll, rengöring och byte.
-* [Bränslefilter](branslefilter.md) – kontroll och byte.
-* [Hjulkontroll](hjulkontroll.md) – kontroll av däck, fälgar, ekrar och hjullager.
-* [Bromskontroll](bromskontroll.md) – kontroll av fram- och bakbroms.
+* [Motorolja](motorolja.md) – kontroll av oljenivå, oljebyte och smörjsystem
+* [Tändstift](tandstift.md) – kontroll och byte av tändstift
+* [Ventilspel](ventilspel.md) – kontroll och justering av ventilspel
+* [Luftfilter](luftfilter.md) – inspektion, rengöring och byte
+* [Avgassystem](avgassystem.md) – kontroll av läckage, skador och infästningar
 
-Se [Manualer och källor](../mopeden/manualer-och-kallor.md) för dokumentation som används som underlag.
+## Bränslesystem
+
+* [Bränslesystem / tomgång](branslesystem-tomgang.md) – kontroll av bränslesystem, gasreglage och tomgång
+* [Bränslefilter](branslefilter.md) – inspektion och byte av bränslefilter
+
+## Drivlina
+
+* [Koppling och växellåda](koppling-vaxellada.md) – kontroll av koppling, kopplingsvajer och växellåda
+* [Kedja och drev](kedja.md) – kontroll, rengöring, smörjning och justering
+
+## Bromsar och chassi
+
+* [Bromskontroll](bromskontroll.md) – kontroll av fram- och bakbroms samt bromsljus
+* [Hjul, styrning och fjädring](hjul-styrning-fjadring.md) – kontroll av däck, ekrar, fälgar, hjullager, styrlager och fjädring
+
+## Elsystem
+
+* [Elsystem](elsystem.md) – kontroll av belysning, blinkers, signalhorn, batteri, kablage och säkringar
+
+## Allmän kontroll
+
+* [Allmän kontroll](allman-kontroll.md) – kontroll av stöd, bultförband, infästningar och mopeden efter avslutad service
+
+## Om dokumentationen
+
+Dokumentationen är inriktad på **Romet Ogar 202**, i första hand årsmodell 2022 med bränsleinsprutning och Euro 5-motor.
+
+Vissa tekniska uppgifter kommer från dokumentation för den närbesläktade **139FMB/FY139FMB-motorfamiljen** när Ogar-specifik verkstadsinformation saknas. Sådana uppgifter markeras på respektive sida när de inte har kunnat verifieras specifikt för Ogar 202.
+
+Moment och värden som ännu inte har kunnat verifieras markeras med **TODO** eller en särskild notering i dokumentationen.
 

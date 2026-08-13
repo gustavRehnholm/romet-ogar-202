@@ -25,6 +25,16 @@ Rekommenderat däcktryck:
 * **Fram: 2,0–2,2 bar**
 * **Bak: 2,0–2,2 bar**
 
+### Däckens ålder
+
+Däckets tillverkningsdatum anges med DOT-märkningen. De fyra sista siffrorna anger tillverkningsvecka och år.
+
+Exempel:
+
+`4921` = vecka 49 år 2021.
+
+Däckets skick är viktigare än enbart åldern. Äldre däck bör dock kontrolleras extra noggrant efter sprickor, hårdnat gummi och deformationer.
+
 ## Ekrar
 
 Kontrollera samtliga ekrar.

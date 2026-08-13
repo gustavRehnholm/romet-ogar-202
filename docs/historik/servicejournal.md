@@ -4,8 +4,10 @@ Här dokumenteras utförd service och reparationer på mopeden.
 
 ## Service 2026
 
-**Mätarställning:** 3292 km
+**ätarställning vid servicestart:** 3292 km
+
 **Service påbörjad:** augusti
+
 **Service färdig:** Nej
 
 
@@ -39,8 +41,6 @@ Här dokumenteras utförd service och reparationer på mopeden.
 ### Allmän kontroll
 
 - [x] Allmän kontroll - aug
-
-**Service färdig:** Nej
 
 ---
 

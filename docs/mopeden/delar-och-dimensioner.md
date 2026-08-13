@@ -11,7 +11,7 @@ För allmänna fordonsdata, se [Specifikationer](specifikationer.md).
 | Del       | Dimension / uppgift |
 | --------- | ------------------- |
 | Fälg      | 17 × 1.20           |
-| Däck      | TODO                |
+| Däck      | 2.25-17             |
 | Ventil    | TODO                |
 | Hjullager | TODO                |
 
@@ -39,8 +39,8 @@ Se även [Hjul och däck](../hjul-och-dack/index.md).
 
 | Egenskap | Uppgift |
 | -------- | ------- |
-| Eker     | TODO    |
-| Nippel   | TODO    |
+| Eker     | ca 160 mm lång, ca 3,0–3,2 mm diameter (uppmätt) |
+| Nippel   | TODO |
 
 Se [Ekrar](../hjul-och-dack/ekrar.md) för kontroll, byte och annan information om ekrarna.
 
@@ -57,14 +57,15 @@ Se [Kedja](../service/kedja.md) för service och justering.
 
 ## Motor
 
+
 ### Tändstift
 
-| Egenskap    | Uppgift |
-| ----------- | ------- |
-| Typ         | TODO    |
-| Gänga       | TODO    |
-| Nyckelvidd  | TODO    |
-| Elektrodgap | TODO    |
+| Egenskap    | Uppgift               |
+| ----------- | --------------------- |
+| Typ         | Denso U22FS-U / C7HSA |
+| Gänga       | M10 × 1,0             |
+| Nyckelvidd  | 16 mm                 |
+| Elektrodgap | 0,6 mm                |
 
 Se [Tändstift](../service/tandstift.md).
 
@@ -72,22 +73,24 @@ Se [Tändstift](../service/tandstift.md).
 
 ### Bränslefilter
 
-| Egenskap       | Uppgift             |
-| -------------- | ------------------- |
-| Typ            | Inline-filter       |
-| Placering      | Efter bränslepumpen |
-| Slangdimension | TODO                |
-| Artikelnummer  | TODO                |
+| Egenskap             | Uppgift              |
+| -------------------- | -------------------- |
+| Typ                  | Inline-filter        |
+| Placering            | Efter bränslepumpen  |
+| Slangdimension       | 6 mm                 |
+| Romet-artikelnummer  | 02-DYJ-814400-CBC000 |
 
 Se [Bränslefilter](../service/branslefilter.md).
 
 ### Luftfilter
 
-| Egenskap      | Uppgift |
-| ------------- | ------- |
-| Filtertyp     | TODO    |
-| Dimension     | TODO    |
-| Artikelnummer | TODO    |
+### Luftfilter
+
+| Egenskap      | Uppgift               |
+| ------------- | --------------------- |
+| Filtertyp     | Utbytbar filterinsats |
+| Dimension     | TODO                  |
+| Artikelnummer | TODO                  |
 
 Se [Luftfilter](../service/luftfilter.md).
 
@@ -128,13 +131,15 @@ Se [Bromsar](../bromsar/index.md).
 
 ### Batteri
 
+### Batteri
+
 | Egenskap     | Uppgift |
 | ------------ | ------- |
-| Spänning     | TODO    |
-| Kapacitet    | TODO    |
-| Dimensioner  | TODO    |
-| Polställning | TODO    |
-| Batterityp   | TODO    |
+| Spänning     | 12 V |
+| Kapacitet    | TODO |
+| Dimensioner  | YTX7L-BS-format, verifiera mot original |
+| Polställning | TODO |
+| Batterityp   | TODO |
 
 ### Säkringar
 
@@ -174,12 +179,22 @@ Här kan verifierade mått som är praktiska vid service samlas efter hand.
 
 ## Reservdelsnummer
 
-Officiella eller verifierade artikelnummer kan samlas här när de hittas.
+Här samlas verifierade artikel- och katalognummer för delar som passar Romet Ogar 202 FI.
 
-| Del  | Artikelnummer | Källa |
-| ---- | ------------- | ----- |
-| TODO | TODO          | TODO  |
+| Del                       | Artikelnummer        | Källa               |
+| ------------------------- | -------------------- | ------------------- |
+| Komplett motor, Euro 5    | 02-W50-014           | Gmoto / Romet-Arkus |
+| Bränslefilter             | 02-DYJ-814400-CBC000 | Gmoto / Romet-Arkus |
+| Lambdasond, Euro 5        | 02-DYJ-260260-014000 | Gmoto / Romet-Arkus |
+| Tändmodul                 | 02-DYJ-261000-B7T000 | Gmoto               |
+| Insprutningsenhet         | 02-DYJ-142000-996000 | Gmoto               |
+| Ljuddämpare / avgassystem | 02-DYJ-144000-BA8001 | Gmoto               |
+| Fälgband 17 tum           | 02-DYJ-612230-000010 | Gmoto               |
 
-!!! note
-Lägg helst bara in mått och reservdelsuppgifter här när de är tillräckligt säkra för att faktiskt användas vid reservdelsköp. Ungefärliga mätningar som görs under felsökning dokumenteras bättre på sidan för det aktuella arbetet.
+### Verifierade ersättningsdelar
+
+| Del                 | Produktnummer | Källa            |
+| ------------------- | ------------- | ---------------- |
+| Bränslefilter, 6 mm | G4164         | Speedline / FRAM |
+
 

@@ -19,7 +19,7 @@ Börja med [Serviceintervall](serviceintervall.md) för att se **när** olika se
 
 ## Drivlina
 
-* [Koppling och växellåda](koppling-vaxellada.md) – kontroll av koppling, kopplingsvajer och växellåda
+* [Koppling](koppling.md) – kontroll av koppling och kopplingsvajer
 * [Kedja och drev](kedja.md) – kontroll, rengöring, smörjning och justering
 
 ## Bromsar och chassi

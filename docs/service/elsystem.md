@@ -107,26 +107,4 @@ Leta efter:
 
 Vrid styret fullt åt båda hållen och kontrollera att kablarna inte sträcks, kläms eller påverkar några elektriska funktioner.
 
-## Säkringar
-
-TODO:
-
-* lokalisera säkringarna
-* dokumentera säkringarnas märkström
-* dokumentera vilken säkring som skyddar vilken krets
-* lägg till bild på säkringshållaren
-
-!!! warning "Byt inte till större säkring"
-Om en säkring går ska den ersättas med samma typ och märkström. Montera inte en större säkring för att hindra den från att lösa ut. Återkommande säkringsfel tyder på ett elektriskt problem som bör felsökas.
-
-## Efter kontroll
-
-Kontrollera slutligen att:
-
-* alla lampor fungerar
-* blinkers fungerar åt båda hållen
-* bromsljuset fungerar med både fram- och bakbroms
-* signalhornet fungerar
-* inga lösa kablar eller kontakter finns
-* inga funktioner påverkas när styret vrids fullt åt båda hållen
 

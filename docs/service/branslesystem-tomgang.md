@@ -42,7 +42,7 @@ Kontrollera synliga slangar efter:
 
 På mopeden finns en behållare märkt **GSGY-120** med anslutningar märkta bland annat `tank`, `purge`, `air` och `drain`.
 
-![EVAP systemets placering](../bilder/service/bransle-tomgang/evap.JPEG)
+![EVAP systemets placering](../bilder/service/branslesystem-tomgang/evap.JPEG)
 
 
 ## Kontroll av tomgång
@@ -59,7 +59,6 @@ Kontrollen bör göras med motorn uppvärmd till normal arbetstemperatur.
 
 Tomgången bör vara tillräckligt stabil för att motorn inte ska stanna och motorn ska återgå till tomgång efter gaspådrag.
 
-TODO: Hitta och verifiera specificerat tomgångsvarvtal för Ogar 202 FI Euro 5.
 
 ## Gasreglage
 

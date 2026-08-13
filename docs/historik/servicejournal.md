@@ -19,26 +19,26 @@ Här dokumenteras utförd service och reparationer på mopeden.
 
 ### Bränslesystem
 
-- [X] Bränslesystem / tomgång
+- [X] Bränslesystem / tomgång - aug
 - [ ] Bränslefilter
 
 ### Drivlina
 
 - [x] Kedja och drev — aug
-- [ ] Koppling och växellåda
+- [x] Koppling - aug
 
 ### Bromsar och chassi
 
-- [ ] Bromskontroll
+- [x] Bromskontroll - aug
 - [ ] Hjul, styrning och fjädring
 
 ### Elsystem
 
-- [ ] Elsystem
+- [x] Elsystem - aug
 
 ### Allmän kontroll
 
-- [ ] Allmän kontroll
+- [x] Allmän kontroll - aug
 
 **Service färdig:** Nej
 
@@ -48,5 +48,4 @@ Här dokumenteras utförd service och reparationer på mopeden.
 
 ### Augusti 2026
 
-- Kedjeservice utförd.
 - Brusten eker i bakhjulet upptäckt.

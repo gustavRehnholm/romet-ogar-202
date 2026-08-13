@@ -57,29 +57,6 @@ Kontrollera:
 
 Lambdasonden används av insprutningssystemet för att mäta syrehalten i avgaserna och påverkar motorns bränslereglering.
 
-TODO:
+![Lambdasond monterad i avgasröret](../bilder/service/avgassystem/lambdasond.JPEG)
 
-* fotografera lambdasondens placering
-* dokumentera kabeldragningen
-* dokumentera kontakten
-
-## Kontroll under körning
-
-Var uppmärksam på:
-
-* tydligt förändrat avgasljud
-* skrammel eller vibrationer från avgassystemet
-* lukt av avgaser från ovanlig plats
-* plötsligt försämrad motorgång tillsammans med andra symptom från insprutningssystemet
-
-Ett metalliskt skrammel kan exempelvis orsakas av en lös värmesköld eller annan lös del och behöver inte innebära att själva ljuddämparen är trasig.
-
-## Emissionsdelar
-
-Euro 5-versionens avgassystem är en del av motorns emissionssystem.
-
-TODO:
-
-* verifiera katalysatorns konstruktion och placering på Ogar 202 FI Euro 5
-* dokumentera eventuell kontroll av katalysatorn
 

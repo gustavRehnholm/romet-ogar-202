@@ -42,7 +42,8 @@ Kontrollera synliga slangar efter:
 
 På mopeden finns en behållare märkt **GSGY-120** med anslutningar märkta bland annat `tank`, `purge`, `air` och `drain`.
 
-TODO: Dokumentera slangdragningen och komponenternas placering mer fullständigt.
+![EVAP systemets placering](../bilder/service/bransle-tomgang/evap.JPEG)
+
 
 ## Kontroll av tomgång
 
@@ -81,30 +82,4 @@ TODO:
 * lägg till bild på justeringen
 * dokumentera hur spelet mäts på gashandtaget
 
-
-## Vid ojämn eller dålig tomgång
-
-Kontrollera först enkla möjliga orsaker:
-
-* gammalt eller dåligt bränsle
-* begränsat eller skadat bränslefilter
-* bränsleläckage eller skadade slangar
-* luftfilter
-* lösa eller skadade slangar i insug eller EVAP-system
-* tändstift
-* ventilspel
-
-Om problemet kvarstår kan vidare felsökning av exempelvis bränslepump, insprutning, givare, tändsystem eller motorns kompression behövas.
-
-Undvik att ändra flera inställningar samtidigt vid felsökning.
-
-## Efter kontroll
-
-Kontrollera slutligen att:
-
-* bränslekranen står i normalt körläge
-* inga bränsleläckage finns
-* slangar och elkontakter sitter ordentligt
-* motorn startar och går normalt
-* gasreglaget återgår korrekt
 

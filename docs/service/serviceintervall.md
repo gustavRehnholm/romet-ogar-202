@@ -17,21 +17,48 @@ Det som inträffar först av körsträcka och tid används.
 
 Om inget annat anges gäller åtgärden vid samtliga ordinarie servicetillfällen.
 
-| Servicepunkt                           | Åtgärd                                      | Avvikelse vid första service |
-| -------------------------------------- | ------------------------------------------- | ---------------------------- |
-| [Motorolja](motorolja.md)              | Byt                                         |                              |
-| [Tändstift](tandstift.md)              | Inspektera, byt vid behov                   | Byt                          |
-| [Ventilspel](ventilspel.md)            | Justera                                     |                              |
-| [Bränslesystem / tomgång](branslesystem-tomgang.md) | Kontrollera, åtgärda vid behov |                              |
-| [Bränslefilter](branslefilter.md)      | Byt                                         | Inspektera                   |
-| [Luftfilter](luftfilter.md)            | Inspektera, rengör eller byt vid behov      |                              |
-| [Avgassystem](avgassystem.md)          | Inspektera efter läckage och rost           |                              |
-| [Elsystem](elsystem.md)                | Inspektera                                  |                              |
-| [Bromskontroll](bromskontroll.md)      | Inspektera                                  |                              |
-| [Koppling och växellåda](koppling-vaxellada.md)         | Inspektera                                  |                              |
-| [Kedja och drev](kedja.md)             | Vårda och inspektera                        |                              |
-| [Hjul, styrning och fjädring](hjul-styrning-fjadring.md)      | Inspektera                                  |                              |
-| [Allmän Kontroll](allman-kontroll.md) | Inspektera                                  |                              |
+### Motor
+
+| Servicepunkt | Åtgärd | Avvikelse vid första service |
+| --- | --- | --- |
+| [Motorolja](motorolja.md) | Byt | |
+| [Tändstift](tandstift.md) | Inspektera, byt vid behov | Byt |
+| [Ventilspel](ventilspel.md) | Kontrollera och justera vid behov | |
+| [Luftfilter](luftfilter.md) | Inspektera, rengör eller byt vid behov | |
+| [Avgassystem](avgassystem.md) | Inspektera | |
+
+### Bränslesystem
+
+| Servicepunkt | Åtgärd | Avvikelse vid första service |
+| --- | --- | --- |
+| [Bränslesystem / tomgång](branslesystem-tomgang.md) | Kontrollera, åtgärda vid behov | |
+| [Bränslefilter](branslefilter.md) | Byt | Inspektera |
+
+### Drivlina
+
+| Servicepunkt | Åtgärd | Avvikelse vid första service |
+| --- | --- | --- |
+| [Koppling och växellåda](koppling-vaxellada.md) | Inspektera och justera vid behov | |
+| [Kedja och drev](kedja.md) | Inspektera, rengör, smörj och justera vid behov | |
+
+### Bromsar och chassi
+
+| Servicepunkt | Åtgärd | Avvikelse vid första service |
+| --- | --- | --- |
+| [Bromskontroll](bromskontroll.md) | Inspektera | |
+| [Hjul, styrning och fjädring](hjul-styrning-fjadring.md) | Inspektera | |
+
+### Elsystem
+
+| Servicepunkt | Åtgärd | Avvikelse vid första service |
+| --- | --- | --- |
+| [Elsystem](elsystem.md) | Inspektera | |
+
+### Allmän kontroll
+
+| Servicepunkt | Åtgärd | Avvikelse vid första service |
+| --- | --- | --- |
+| [Allmän kontroll](allman-kontroll.md) | Inspektera | |
 
 ## Löpande underhåll
 

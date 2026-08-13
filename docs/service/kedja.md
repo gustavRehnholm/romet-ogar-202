@@ -6,6 +6,8 @@ Här beskrivs kontroll, rengöring, smörjning och justering av drivkedjan på
 Enligt instruktionsboken ska kedjan rengöras från smuts och grus ungefär
 var 14:e dag och hållas inoljad. Kedjespelet ska vara **15–25 mm**.
 
+![Rekommenderat kedjespel](../bilder/service/kedja/kedjespanning.JPEG)
+
 ## Rengöring
 
 Det finns flera metoder för att rengöra en drivkedja.

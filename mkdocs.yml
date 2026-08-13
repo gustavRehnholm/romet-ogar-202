@@ -15,7 +15,6 @@ nav:
   - Mopeden:
       - Översikt: mopeden/index.md
       - Specifikationer: mopeden/specifikationer.md
-      - Identifiering och modell: mopeden/identifiering.md
       - Delar och dimensioner: mopeden/delar-och-dimensioner.md
       - Manualer och källor: mopeden/manualer-och-kallor.md
 

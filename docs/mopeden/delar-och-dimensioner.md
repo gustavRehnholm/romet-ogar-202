@@ -131,21 +131,20 @@ Se [Bromsar](../bromsar/index.md).
 
 ### Batteri
 
-### Batteri
-
 | Egenskap     | Uppgift |
 | ------------ | ------- |
+| Beteckning   | 12N5-3B |
 | Spänning     | 12 V |
-| Kapacitet    | TODO |
-| Dimensioner  | YTX7L-BS-format, verifiera mot original |
-| Polställning | TODO |
-| Batterityp   | TODO |
+| Kapacitet    | 5 Ah |
+| Dimensioner  | 120 × 60 × 130 mm |
+| Polställning | − vänster, + höger sett från märkningssidan |
+| Batterityp   | Konventionellt vått bly/syrabatteri |
 
 ### Säkringar
 
-| Placering / funktion | Typ  | Storlek |
-| -------------------- | ---- | ------- |
-| TODO                 | TODO | TODO    |
+| Placering / funktion | Typ | Storlek |
+| -------------------- | --- | ------- |
+| Säkringshållare vid batteriet | Standard flatstiftssäkring (ATO/ATC) | 15 A × 4 |
 
 ## Lampor
 

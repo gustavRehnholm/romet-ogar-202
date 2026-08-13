@@ -15,7 +15,6 @@ Eftersom utförandet kan skilja mellan olika årsmodeller och marknader bör upp
 ## Teknisk information
 
 * [Specifikationer](specifikationer.md) – motor, transmission, hjul, bromsar, mått och andra grundläggande fordonsdata.
-* [Identifiering och modell](identifiering.md) – information för att identifiera vilken version av Ogar 202 dokumentationen gäller.
 * [Delar och dimensioner](delar-och-dimensioner.md) – dimensioner, komponenter och reservdelsinformation som kan vara användbar vid service och reparation.
 * [Manualer och källor](manualer-och-kallor.md) – manualer, dokument och andra källor som informationen bygger på.
 

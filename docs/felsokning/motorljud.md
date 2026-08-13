@@ -1,45 +1,51 @@
-# Kamkedja
+# Onormala motorljud
+
+Här samlas information för felsökning av nytillkomna eller onormala mekaniska ljud från motorn.
+
+Sidan behandlar för närvarande främst kamkedja och kamkedjespännare.
+
+## Kamkedja
 
 Kamkedjan synkroniserar vevaxeln med kamaxeln och därmed motorns ventiltider.
 
-Romet Ogar 202 FI Euro 5 använder en motor ur **139FMB-familjen**. För denna motorfamilj används en självverkande kamkedjespännare med fjäder och tryckstång. Systemet verkar därför normalt inte kräva någon regelbunden manuell inställning av kamkedjespelet.
+Romet Ogar 202 FI Euro 5 använder en motor ur **139FMB-familjen**. Dokumentation för FY139FMB beskriver en självverkande kamkedjespännare med fjäder och tryckstång. Kamkedjespelet ska därför normalt inte kräva regelbunden manuell justering.
 
-## Kontroll
+### Symptom
 
-Var uppmärksam på:
+Problem med kamkedja eller kamkedjespännare kan bland annat ge:
 
-* rasslande eller skramlande ljud från kamkedjan
+* rasslande eller skramlande ljud från motorn
 * ljud som förändras tydligt med motorvarvet
 * nytillkomna mekaniska ljud från motorns övre del
 
-Ett tickande ljud behöver inte innebära problem med kamkedjan. Felaktigt ventilspel kan ge liknande symptom.
+Ett tickande ljud behöver inte bero på kamkedjan. Felaktigt ventilspel kan ge liknande symptom.
 
 ## Kamkedjespännare
 
-Kamkedjespännaren i 139FMB-motorn består bland annat av en fjäder och en tryckstång. Tryckstången har även en ventilfunktion och spännaren använder motorolja för sin funktion.
+Verkstadsdata för FY139FMB beskriver en spännare med fjäder och tryckstång. Tryckstången innehåller även en ventilfunktion och systemet använder motorolja för sin funktion.
 
-Vid problem med för stort kamkedjespel anger verkstadsdata för 139FMB bland annat följande möjliga orsaker:
+Möjliga orsaker till för stort kamkedjespel anges bland annat vara:
 
 * sliten eller skadad spännarfjäder
 * sliten eller kärvande tryckstång
 * igensatta ventilhål i tryckstången
 * luft i spännarkammaren
-* skadade delar i kamkedjespännaren
+* skadade delar i spännaren
 
-## Inspektion av spännaren
+### Inspektion av spännaren
 
-Följande procedur kommer från verkstadsdata för FY139FMB-motorn och är ännu inte verifierad specifikt för Romet Ogar 202 FI Euro 5.
+Följande procedur kommer från verkstadsdata för FY139FMB och är ännu inte verifierad specifikt för Romet Ogar 202 FI Euro 5.
 
 1. Lossa spännarens tätningsbult/plugg.
 2. Ta ut spännarfjädern.
 3. Mät fjäderns fria längd.
 4. Kontrollera tätningsbrickans skick.
-5. Ta ut och kontrollera tryckstången efter repor och slitage.
+5. Ta ut tryckstången och kontrollera den efter repor och slitage.
 6. Kontrollera att ventilhålen i tryckstången inte är igensatta.
 7. Mät tryckstångens ytterdiameter.
 8. Montera tillbaka delarna i omvänd ordning.
 
-### Referensvärden för FY139FMB
+#### Referensvärden för FY139FMB
 
 | Del                       |         Standard | Slitgräns |
 | ------------------------- | ---------------: | --------: |
@@ -49,17 +55,17 @@ Följande procedur kommer från verkstadsdata för FY139FMB-motorn och är ännu
 Tätningsbulten anges till **25 Nm** i FY139FMB-verkstadshandboken.
 
 !!! warning "Inte verifierat för Ogar 202 Euro 5"
-Konstruktionen stämmer med den 139FMB-motorfamilj som används i Ogar 202 FI, men mått och åtdragningsmoment ovan har ännu inte verifierats mot officiell verkstadsdata från Romet för Euro 5-motorn.
+Konstruktionen överensstämmer med dokumentation för FY139FMB-motorfamiljen, men mått och åtdragningsmoment ovan har ännu inte verifierats mot Ogar-specifik verkstadsdata.
 
 ```
-Om delarnas konstruktion eller dimensioner avviker när de inspekteras ska dessa värden inte användas.
+Om konstruktionen eller dimensionerna avviker vid inspektion ska referensvärdena inte användas.
 ```
 
-## Själva kamkedjan
+## Kamkedja och guider
 
-En kontroll av spännaren kräver inte att kamkedjan byts eller att motorn demonteras fullständigt.
+Om spännaren fungerar men kamkedjan fortfarande misstänks ha för stort spel behöver även själva kedjan och dess guider kontrolleras.
 
-Vid misstanke om kraftigt sliten kamkedja behöver även kedjan, rullarna/guiderna och kamtimingen kontrolleras.
+Vid större ingrepp bör även kamtimingen verifieras innan motorn körs.
 
 TODO:
 

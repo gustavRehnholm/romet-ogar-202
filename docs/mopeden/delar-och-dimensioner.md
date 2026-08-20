@@ -59,12 +59,13 @@ Se [Kedja](../service/kedja.md) för service och justering.
 
 ### Tändstift
 
-| Egenskap    | Uppgift               |
-| ----------- | --------------------- |
-| Typ         | Denso U22FS-U / C7HSA |
-| Gänga       | M10 × 1,0             |
-| Nyckelvidd  | 16 mm                 |
-| Elektrodgap | 0,6 mm                |
+| Egenskap    | Uppgift                        |
+| ----------- | ------------------------------ |
+| Typ         | Denso U22FS-U / C7HSA / CR7HSA |
+| Gänga       | M10 × 1,0                      |
+| Gänglängd   | 12,7 mm                        |
+| Nyckelvidd  | 16 mm                          |
+| Elektrodgap | 0,6 mm                         |
 
 Se [Tändstift](../service/tandstift.md).
 
@@ -231,3 +232,5 @@ Här samlas verifierade artikel- och katalognummer för delar som passar Romet O
 | Del                 | Produktnummer | Källa            |
 | ------------------- | ------------- | ---------------- |
 | Bränslefilter, 6 mm | G4164         | Speedline / FRAM |
+| Bränslefilter, EFI  | 00-1004887    | EFI, slangdimension ej angiven, Motorsweden |
+| Tändstift, CR7HSA   | NK10-R7-SSA   | Gmoto / Naraku   |

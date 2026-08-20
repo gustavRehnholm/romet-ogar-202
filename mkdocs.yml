@@ -1,4 +1,5 @@
 site_name: Romet Ogar 202
+site_url: https://ogar202.github.io/
 
 theme:
   name: material

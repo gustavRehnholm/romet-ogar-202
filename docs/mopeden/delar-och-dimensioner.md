@@ -37,10 +37,10 @@ Se även [Hjul och däck](../hjul-och-dack/index.md).
 
 ### Bakhjul
 
-| Egenskap | Uppgift |
-| -------- | ------- |
+| Egenskap | Uppgift                                            |
+| -------- | -------------------------------------------------- |
 | Eker     | ca 160 mm lång, ca 3,0–3,2 mm diameter (uppmätt) |
-| Nippel   | TODO |
+| Nippel   | TODO                                               |
 
 Se [Ekrar](../hjul-och-dack/ekrar.md) för kontroll, byte och annan information om ekrarna.
 
@@ -57,7 +57,6 @@ Se [Kedja](../service/kedja.md) för service och justering.
 
 ## Motor
 
-
 ### Tändstift
 
 | Egenskap    | Uppgift               |
@@ -73,16 +72,14 @@ Se [Tändstift](../service/tandstift.md).
 
 ### Bränslefilter
 
-| Egenskap             | Uppgift              |
-| -------------------- | -------------------- |
-| Typ                  | Inline-filter        |
-| Placering            | Efter bränslepumpen  |
-| Slangdimension       | 6 mm                 |
-| Romet-artikelnummer  | 02-DYJ-814400-CBC000 |
+| Egenskap            | Uppgift              |
+| ------------------- | -------------------- |
+| Typ                 | Inline-filter        |
+| Placering           | Efter bränslepumpen  |
+| Slangdimension      | 6 mm                 |
+| Romet-artikelnummer | 02-DYJ-814400-CBC000 |
 
 Se [Bränslefilter](../service/branslefilter.md).
-
-### Luftfilter
 
 ### Luftfilter
 
@@ -96,14 +93,41 @@ Se [Luftfilter](../service/luftfilter.md).
 
 ### Bränsleångor / EVAP
 
-| Egenskap      | Uppgift                              |
-| ------------- | ------------------------------------ |
-| Märkning      | GSGY-120                             |
-| Anslutningar  | `air`, `drain`, `purge`, `tank`      |
+| Egenskap      | Uppgift                               |
+| ------------- | ------------------------------------- |
+| Märkning      | GSGY-120                              |
+| Anslutningar  | `air`, `drain`, `purge`, `tank`       |
 | Funktion      | System för hantering av bränsleångor |
-| Artikelnummer | TODO                                 |
+| Artikelnummer | TODO                                  |
 
 Systemet har anslutningar mot bland annat bränsletank och motor. Exakt uppbyggnad och komponenternas funktion återstår att dokumentera närmare.
+
+### Insprutning / gasspjällshus
+
+| Egenskap     | Uppgift                                  |
+| ------------ | ---------------------------------------- |
+| Tillverkare  | Motion                                   |
+| Modell       | D19E                                     |
+| Märkning     | `Motion D19E LT 21L11A`                  |
+| Typ          | Elektronisk bränsleinsprutning (EFI)     |
+
+### Insugsstos
+
+| Egenskap        | Uppgift                                         |
+| --------------- | ----------------------------------------------- |
+| Typ             | Insugsstos mellan gasspjällshus och topplock   |
+| Utförande       | Aluminium med gummikoppling                     |
+| Märkning        | `YGJQG-41`                                      |
+| Fordonskategori | `L1e-B`                                         |
+
+### Motortemperaturgivare
+
+| Egenskap   | Uppgift                       |
+| ---------- | ----------------------------- |
+| Typ        | Gängad temperaturgivare       |
+| Anslutning | 2-polig                       |
+| Placering  | Motor / topplock              |
+| Funktion   | Temperaturinformation till ECU |
 
 ## Bromsar
 
@@ -131,20 +155,32 @@ Se [Bromsar](../bromsar/index.md).
 
 ### Batteri
 
-| Egenskap     | Uppgift |
-| ------------ | ------- |
-| Beteckning   | 12N5-3B |
-| Spänning     | 12 V |
-| Kapacitet    | 5 Ah |
-| Dimensioner  | 120 × 60 × 130 mm |
-| Polställning | − vänster, + höger sett från märkningssidan |
-| Batterityp   | Konventionellt vått bly/syrabatteri |
+| Egenskap     | Uppgift                                         |
+| ------------ | ----------------------------------------------- |
+| Beteckning   | 12N5-3B                                         |
+| Spänning     | 12 V                                            |
+| Kapacitet    | 5 Ah                                            |
+| Dimensioner  | 120 × 60 × 130 mm                               |
+| Polställning | − vänster, + höger sett från märkningssidan    |
+| Batterityp   | Konventionellt vått bly/syrabatteri             |
 
 ### Säkringar
 
-| Placering / funktion | Typ | Storlek |
-| -------------------- | --- | ------- |
-| Säkringshållare vid batteriet | Standard flatstiftssäkring (ATO/ATC) | 15 A × 4 |
+| Placering / funktion          | Typ                                    | Storlek |
+| ----------------------------- | -------------------------------------- | ------- |
+| Säkringshållare vid batteriet | Standard flatstiftssäkring (ATO/ATC)   | 15 A × 4 |
+
+### ECU / motorstyrenhet
+
+| Egenskap           | Uppgift                |
+| ------------------ | ---------------------- |
+| Tillverkare        | Motion                 |
+| Modell             | SE08                   |
+| Beteckning         | YG48Q-7                |
+| Hastighetsmärkning | 45 km/h                |
+| Märkning           | `0000XS45`             |
+| Produktionsmärkning| `211202`               |
+| Serienummer        | `SE08202112030119`     |
 
 ## Lampor
 
@@ -173,7 +209,6 @@ Här kan verifierade mått som är praktiska vid service samlas efter hand.
 | Bakaxel       | TODO              | TODO    |
 | Framaxel      | TODO              | TODO    |
 | Oljeplugg     | TODO              | TODO    |
-| Tändstift     | TODO              | TODO    |
 | Kedjespännare | TODO              | TODO    |
 
 ## Reservdelsnummer
@@ -195,5 +230,3 @@ Här samlas verifierade artikel- och katalognummer för delar som passar Romet O
 | Del                 | Produktnummer | Källa            |
 | ------------------- | ------------- | ---------------- |
 | Bränslefilter, 6 mm | G4164         | Speedline / FRAM |
-
-

@@ -66,6 +66,7 @@ nav:
       - Startproblem: felsokning/startproblem.md
       - Vibrationer: felsokning/vibrationer.md
 
-  - Historik:
-      - Översikt: historik/index.md
-      - Servicejournal: historik/servicejournal.md
+  - den här mopeden:
+      - Översikt: den-har-mopeden/index.md
+      - Servicejournal: den-har-mopeden/servicejournal.md
+      - Reservdelsinventarium: den-har-mopeden/reservdelsinventarium.md

@@ -32,6 +32,13 @@ Kompatibilitet anges som:
 | Insugsstos                | `YGJQG-41`, `L1e-B`          | 1     | Begagnad, okänd funktion  | Verifierad     |           |
 | Motortemperaturgivare     | 2-polig                      | 1     | Begagnad, okänd funktion  | Verifierad     |           |
 
+## Bromsar
+
+| Del                                      | Identifiering / artikelnummer | Antal | Status | Kompatibilitet | Kommentar |
+| ---------------------------------------- | ----------------------------- | ----- | ------ | -------------- | --------- |
+| Fjäder till fotbromsens bromsljuskontakt | `02-BG3-820004-000016`        | 1     | Ny     | Verifierad     | Gmoto     |
+
+
 ## Elsystem
 
 | Del                       | Identifiering / märkning              | Antal | Status                   | Kompatibilitet | Kommentar |

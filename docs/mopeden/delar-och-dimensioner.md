@@ -39,7 +39,7 @@ Se även [Hjul och däck](../hjul-och-dack/index.md).
 
 | Egenskap | Uppgift                                            |
 | -------- | -------------------------------------------------- |
-| Eker     | ca 160 mm lång, ca 3,0–3,2 mm diameter (uppmätt) |
+| Eker     | ca 160 mm lång, ca 3,0–3,2 mm diameter (uppmätt)   |
 | Nippel   | TODO                                               |
 
 Se [Ekrar](../hjul-och-dack/ekrar.md) för kontroll, byte och annan information om ekrarna.
@@ -97,7 +97,7 @@ Se [Luftfilter](../service/luftfilter.md).
 | ------------- | ------------------------------------- |
 | Märkning      | GSGY-120                              |
 | Anslutningar  | `air`, `drain`, `purge`, `tank`       |
-| Funktion      | System för hantering av bränsleångor |
+| Funktion      | System för hantering av bränsleångor  |
 | Artikelnummer | TODO                                  |
 
 Systemet har anslutningar mot bland annat bränsletank och motor. Exakt uppbyggnad och komponenternas funktion återstår att dokumentera närmare.
@@ -115,18 +115,18 @@ Systemet har anslutningar mot bland annat bränsletank och motor. Exakt uppbyggn
 
 | Egenskap        | Uppgift                                         |
 | --------------- | ----------------------------------------------- |
-| Typ             | Insugsstos mellan gasspjällshus och topplock   |
+| Typ             | Insugsstos mellan gasspjällshus och topplock    |
 | Utförande       | Aluminium med gummikoppling                     |
 | Märkning        | `YGJQG-41`                                      |
 | Fordonskategori | `L1e-B`                                         |
 
 ### Motortemperaturgivare
 
-| Egenskap   | Uppgift                       |
-| ---------- | ----------------------------- |
-| Typ        | Gängad temperaturgivare       |
-| Anslutning | 2-polig                       |
-| Placering  | Motor / topplock              |
+| Egenskap   | Uppgift                        |
+| ---------- | ------------------------------ |
+| Typ        | Gängad temperaturgivare        |
+| Anslutning | 2-polig                        |
+| Placering  | Motor / topplock               |
 | Funktion   | Temperaturinformation till ECU |
 
 ## Bromsar
@@ -161,13 +161,13 @@ Se [Bromsar](../bromsar/index.md).
 | Spänning     | 12 V                                            |
 | Kapacitet    | 5 Ah                                            |
 | Dimensioner  | 120 × 60 × 130 mm                               |
-| Polställning | − vänster, + höger sett från märkningssidan    |
+| Polställning | − vänster, + höger sett från märkningssidan     |
 | Batterityp   | Konventionellt vått bly/syrabatteri             |
 
 ### Säkringar
 
-| Placering / funktion          | Typ                                    | Storlek |
-| ----------------------------- | -------------------------------------- | ------- |
+| Placering / funktion          | Typ                                    | Storlek  |
+| ----------------------------- | -------------------------------------- | -------- |
 | Säkringshållare vid batteriet | Standard flatstiftssäkring (ATO/ATC)   | 15 A × 4 |
 
 ### ECU / motorstyrenhet
@@ -215,15 +215,16 @@ Här kan verifierade mått som är praktiska vid service samlas efter hand.
 
 Här samlas verifierade artikel- och katalognummer för delar som passar Romet Ogar 202 FI.
 
-| Del                       | Artikelnummer        | Källa               |
-| ------------------------- | -------------------- | ------------------- |
-| Komplett motor, Euro 5    | 02-W50-014           | Gmoto / Romet-Arkus |
-| Bränslefilter             | 02-DYJ-814400-CBC000 | Gmoto / Romet-Arkus |
-| Lambdasond, Euro 5        | 02-DYJ-260260-014000 | Gmoto / Romet-Arkus |
-| Tändmodul                 | 02-DYJ-261000-B7T000 | Gmoto               |
-| Insprutningsenhet         | 02-DYJ-142000-996000 | Gmoto               |
-| Ljuddämpare / avgassystem | 02-DYJ-144000-BA8001 | Gmoto               |
-| Fälgband 17 tum           | 02-DYJ-612230-000010 | Gmoto               |
+| Del                            | Artikelnummer        | Källa               |
+| ------------------------------ | -------------------- | ------------------- |
+| Komplett motor, Euro 5         | 02-W50-014           | Gmoto / Romet-Arkus |
+| Bränslefilter                  | 02-DYJ-814400-CBC000 | Gmoto / Romet-Arkus |
+| Lambdasond, Euro 5             | 02-DYJ-260260-014000 | Gmoto / Romet-Arkus |
+| Tändmodul                      | 02-DYJ-261000-B7T000 | Gmoto               |
+| Insprutningsenhet              | 02-DYJ-142000-996000 | Gmoto               |
+| Ljuddämpare / avgassystem      | 02-DYJ-144000-BA8001 | Gmoto               |
+| Fälgband 17 tum                | 02-DYJ-612230-000010 | Gmoto               |
+| Fjäder, bakre bromsljuskontakt | 02-BG3-820004-000016 | Gmoto               |
 
 ### Verifierade ersättningsdelar
 

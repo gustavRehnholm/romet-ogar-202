@@ -21,7 +21,7 @@ Verkstadsdokumentation för **FY139FMB-motorn** anger ett fritt spel på **3–4
 
 För litet spel kan göra att kopplingen inte kopplar in helt. För stort spel kan göra att kopplingen inte frikopplar helt, eller att det kräver onödigt stora handrörelser för att växla. 
 
-![Justering Koppingens vajer](../bilder/service/branslefilter/koppling.JPEG)
+![Justering Koppingens vajer](../bilder/service/koppling/koppling.JPEG)
 
 
 ## Funktionskontroll

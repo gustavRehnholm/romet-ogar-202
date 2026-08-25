@@ -14,11 +14,14 @@ Kontrollera:
 * bakljus
 * bromsljus
 * blinkers
-* instrumentbelysning
-  - helljusindikering
-  - blinkersindikering
-  - växelindikering
-  - motorkontrollampor (lyser innan startat motorn)
+
+
+## instrumentpanelen
+* belysning över hastighetsmätaren samt varvtal.
+* helljusindikering
+* blinkersindikering
+* växelindikering
+* motorkontrollampor (lyser innan startat motorn)
 
 
 ## Signalhorn

@@ -7,7 +7,7 @@ Här dokumenteras känd service, felsökning och reparationer på mopeden, både
 ### Augusti 2026 – service
 Full service utförd i augusti 2026 vid 3292 km. Nedan avikelser.
 
-* Tändstiftet bytes ut, dock utan att nödvändigtvis vara helt nödvändigt. 
+* Tändstiftet bytes ut, dock var den gamla fortfarande i bra skick.
 * Skippade luftfiltret, oklart hur den ska bytas. Blir ett senare projekt.
 * skippade ventilspelet, blir ett senare projekt.
 * TODO: bränslefiltret
@@ -15,7 +15,7 @@ Full service utförd i augusti 2026 vid 3292 km. Nedan avikelser.
 
 ### Augusti 2026 – brusten eker
 
-Brusten eker i bakhjulet bytes ut.
+Brusten eker i bakhjulet bytes ut. Blev lite böjd i processen men sitter stabilt.
 
 
 ### Juni 2026 – varmstartsproblem åtgärdat
@@ -78,7 +78,6 @@ Följande delar uppges ha bytts eller ingått i felsökningen:
     * produktionsmärkning: `211202`
     * serienummer: `SE08202112030119`
   * ECU:n bedöms sannolikt ha bytts eller provats i samband med felsökningen.
-  * Tidigare uppgifter har beskrivit en bytt **CDI/tändsystemskomponent**. På denna Euro 5-modell används ECU för motorstyrningen, och det är därför inte klarlagt om uppgiften avsåg denna ECU eller om ytterligare någon tändsystemskomponent också byttes.
 
 Trots dessa åtgärder kvarstod varmstartsproblemet.
 

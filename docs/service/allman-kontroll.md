@@ -46,8 +46,3 @@ Kontrollera även efter:
 
 
 
-```
-Om ett förband är löst bör rätt åtdragningsmoment och eventuell låsningsmetod kontrolleras innan det dras åt. För hård åtdragning kan skada gängor, infästningar eller komponenter.
-```
-
-

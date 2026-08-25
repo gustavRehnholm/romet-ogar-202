@@ -2,17 +2,6 @@
 
 Tändstiftet antänder bränsle-/luftblandningen i motorn och är samtidigt en användbar indikator på hur motorn arbetar.
 
-## Tändstift
-
-För Romet Ogar 202 FI har följande tändstift identifierats:
-
-* **Denso U22FSU**
-* motsvarande typ: **C7HSA**
-* gängdiameter: **10 mm**
-* gänglängd: **12,7 mm**
-* elektrodgap: **0,6 mm**
-
-TODO: Verifiera märkningen på det monterade originalstiftet första gången det demonteras.
 
 ## Demontering
 
@@ -20,8 +9,10 @@ Arbeta helst med kall motor. Tändstiftet och topplocket blir mycket varma under
 
 1. Ta försiktigt bort tändhatten genom att greppa själva tändhatten, inte kabeln.
 2. Rengör runt tändstiftet så att smuts inte faller ner i motorn när stiftet tas bort.
-3. Lossa tändstiftet med en passande tändstiftshylsa.
+3. Lossa tändstiftet med en passande tändstiftshylsa
 4. Skruva därefter ur det försiktigt för hand.
+
+![Placering av tändstift](../bilder/service/tandstift/tandstift.JPEG)
 
 ## Inspektion
 
@@ -82,13 +73,12 @@ Tändstiftets utseende påverkas av bland annat körsätt, motortemperatur, brä
 2. Sätt tändstiftet i hylsan och börja skruva in det **för hand**.
 3. Det ska gå lätt att skruva flera varv utan verktyg.
 4. Om det kärvar eller går trögt, skruva ur det och börja om för att undvika korsgängning.
-5. Dra därefter åt tändstiftet enligt korrekt åtdragningsmoment eller tändstiftstillverkarens anvisning.
+5. Dra därefter åt tändstiftet, dock inte för hårt. 
 6. Sätt tillbaka tändhatten ordentligt.
 
 !!! warning "Gängorna i topplocket"
 Tvinga aldrig in ett tändstift som går trögt från början. Det är lätt att skada gängorna i topplocket genom korsgängning.
 
-TODO: Verifiera korrekt åtdragningsmoment för Romet Ogar 202.
 
 ## Efter kontroll eller byte
 

@@ -4,6 +4,8 @@ Dokumentation om **Romet Ogar 202, årsmodell 2022**, med fokus på service, und
 
 Syftet är att samla information som annars är svår att hitta och samtidigt dokumentera praktiska erfarenheter från arbete på mopeden.
 
+![Romet ogar 202](../bilder/service/startsida/romet-ogar-202.jpeg)
+
 ## Service och underhåll
 
 Här finns återkommande servicepunkter, kontroller och instruktioner för underhåll av mopeden.

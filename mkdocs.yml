@@ -35,7 +35,7 @@ nav:
           - Bränslefilter: service/branslefilter.md
 
       - Drivlina:
-          - Koppling och växellåda: service/koppling-vaxellada.md
+          - Koppling: service/koppling.md
           - Kedja och drev: service/kedja.md
 
       - Bromsar och chassi:

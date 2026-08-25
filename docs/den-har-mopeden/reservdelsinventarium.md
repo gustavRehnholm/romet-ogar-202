@@ -31,6 +31,7 @@ Kompatibilitet anges som:
 | Gasspjällshus             | Motion D19E, `LT 21L11A`     | 1     | Begagnad, okänd funktion  | Verifierad     |           |
 | Insugsstos                | `YGJQG-41`, `L1e-B`          | 1     | Begagnad, okänd funktion  | Verifierad     |           |
 | Motortemperaturgivare     | 2-polig                      | 1     | Begagnad, okänd funktion  | Verifierad     |           |
+| tändstift                 |                              | 1     | Begagnad, fungerande      | Verifierad     |           |
 
 ## Bromsar
 
@@ -51,7 +52,7 @@ Kompatibilitet anges som:
 
 | Del                       | Identifiering / dimension | Antal | Status | Kompatibilitet | Kommentar |
 | ------------------------- | ------------------------- | ----- | ------ | -------------- | --------- |
-| Eker, bakhjul             | ca 160 mm, ca 3,0–3,2 mm  | 2     | Ny     | Verifierad     |           |
+| Eker, bakhjul             | ca 160 mm, ca 3,0–3,2 mm  | 1     | Ny     | Verifierad     |           |
 
 ## Bränslesystem
 

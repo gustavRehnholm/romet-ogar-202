@@ -4,47 +4,13 @@ Här dokumenteras känd service, felsökning och reparationer på mopeden, både
 
 ## 2026
 
-### Augusti 2026 – pågående service
-<!-- Full service utförd i augusti 2026 vid 3292 km. -->
+### Augusti 2026 – service
+Full service utförd i augusti 2026 vid 3292 km. Nedan avikelser.
 
 * Tändstiftet bytes ut, dock utan att nödvändigtvis vara helt nödvändigt. 
 * Skippade luftfiltret, oklart hur den ska bytas. Blir ett senare projekt.
-* 
-
-
-
-**Mätarställning vid servicestart:** 3292 km
-
-#### Motor
-
-* [x] Motorolja — aug
-* [x] Tändstift - aug
-* [ ] Ventilspel
-* [ ] Luftfilter
-* [x] Avgassystem — aug
-
-#### Bränslesystem
-
-* [x] Bränslesystem / tomgång — aug
-* [ ] Bränslefilter
-
-#### Drivlina
-
-* [x] Kedja och drev — aug
-* [x] Koppling — aug
-
-#### Bromsar och chassi
-
-* [x] Bromskontroll — aug
-* [x] Hjul, styrning och fjädring
-
-#### Elsystem
-
-* [x] Elsystem — aug
-
-#### Allmän kontroll
-
-* [x] Allmän kontroll — aug
+* skippade ventilspelet, blir ett senare projekt.
+* TODO: bränslefiltret
 
 
 ### Augusti 2026 – brusten eker

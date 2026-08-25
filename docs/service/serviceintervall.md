@@ -2,6 +2,7 @@
 
 Serviceintervall för **Romet Ogar 202, årsmodell 2022**.
 
+
 ## Ordinarie service
 
 | Service        | Intervall                    |
@@ -13,52 +14,60 @@ Serviceintervall för **Romet Ogar 202, årsmodell 2022**.
 
 Det som inträffar först av körsträcka och tid används.
 
+
 ## Servicepunkter
 
 Om inget annat anges gäller åtgärden vid samtliga ordinarie servicetillfällen.
 
+
 ### Motor
 
 | Servicepunkt | Åtgärd | Avvikelse vid första service |
-| --- | --- | --- |
-| [Motorolja](motorolja.md) | Byt | |
-| [Tändstift](tandstift.md) | Inspektera, byt vid behov | Byt |
-| [Ventilspel](ventilspel.md) | Kontrollera och justera vid behov | |
-| [Luftfilter](luftfilter.md) | Inspektera, rengör eller byt vid behov | |
-| [Avgassystem](avgassystem.md) | Inspektera | |
+| ----------------------------- | -------------------------------------- | --- |
+| [Motorolja](motorolja.md)     | Byt                                    |     |
+| [Tändstift](tandstift.md)     | Inspektera, byt vid behov              | Byt |
+| [Ventilspel](ventilspel.md)   | Kontrollera och justera vid behov      |     |
+| [Luftfilter](luftfilter.md)   | Inspektera, rengör eller byt vid behov |     |
+| [Avgassystem](avgassystem.md) | Inspektera                             |     |
+
 
 ### Bränslesystem
 
-| Servicepunkt | Åtgärd | Avvikelse vid första service |
-| --- | --- | --- |
-| [Bränslesystem / tomgång](branslesystem-tomgang.md) | Kontrollera, åtgärda vid behov | |
-| [Bränslefilter](branslefilter.md) | Byt | Inspektera |
+| Servicepunkt                                        | Åtgärd                         | Avvikelse vid första service |
+| --------------------------------------------------- | ------------------------------ | ---------------------------- |
+| [Bränslesystem / tomgång](branslesystem-tomgang.md) | Kontrollera, åtgärda vid behov |                              |
+| [Bränslefilter](branslefilter.md)                   | Byt                            | Inspektera                   |
+
 
 ### Drivlina
 
-| Servicepunkt | Åtgärd | Avvikelse vid första service |
-| --- | --- | --- |
-| [Koppling och växellåda](koppling-vaxellada.md) | Inspektera och justera vid behov | |
-| [Kedja och drev](kedja.md) | Inspektera, rengör, smörj och justera vid behov | |
+| Servicepunkt                                    | Åtgärd                                          | Avvikelse vid första service |
+| ----------------------------------------------- | ----------------------------------------------- | ---------------------------- |
+| [Koppling och växellåda](koppling-vaxellada.md) | Inspektera och justera vid behov                |                              |
+| [Kedja och drev](kedja.md)                      | Inspektera, rengör, smörj och justera vid behov |                              |
+
 
 ### Bromsar och chassi
 
-| Servicepunkt | Åtgärd | Avvikelse vid första service |
-| --- | --- | --- |
-| [Bromskontroll](bromskontroll.md) | Inspektera | |
-| [Hjul, styrning och fjädring](hjul-styrning-fjadring.md) | Inspektera | |
+| Servicepunkt                                             | Åtgärd     | Avvikelse vid första service |
+| -------------------------------------------------------- | ---------- | ---------------------------- |
+| [Bromskontroll](bromskontroll.md)                        | Inspektera |                              |
+| [Hjul, styrning och fjädring](hjul-styrning-fjadring.md) | Inspektera |                              |
+
 
 ### Elsystem
 
-| Servicepunkt | Åtgärd | Avvikelse vid första service |
-| --- | --- | --- |
-| [Elsystem](elsystem.md) | Inspektera | |
+| Servicepunkt            | Åtgärd     | Avvikelse vid första service |
+| ----------------------- | ---------- | ---------------------------- |
+| [Elsystem](elsystem.md) | Inspektera |                              |
+
 
 ### Allmän kontroll
 
-| Servicepunkt | Åtgärd | Avvikelse vid första service |
-| --- | --- | --- |
-| [Allmän kontroll](allman-kontroll.md) | Inspektera | |
+| Servicepunkt                          | Åtgärd     | Avvikelse vid första service |
+| ------------------------------------- | ---------- | ---------------------------- |
+| [Allmän kontroll](allman-kontroll.md) | Inspektera |                              |
+
 
 ## Löpande underhåll
 

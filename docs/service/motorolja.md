@@ -4,6 +4,7 @@ Här beskrivs kontroll och byte av motorolja på **Romet Ogar 202, årsmodell 20
 
 Använd **10W-40 motorcykelolja avsedd för våtkoppling**, exempelvis olja klassad enligt JASO MA eller MA2.
 
+
 ## Kontrollera efter oljeläckage
 
 Inspektera motorn efter färsk motorolja, särskilt runt:
@@ -18,13 +19,15 @@ Om ett område är oljigt men det är oklart om det finns ett aktivt läckage ka
 
 Kontrollera även om oljenivån verkar minska onormalt snabbt mellan kontroller.
 
+
 ## Kontroll av oljenivå
 
 Oljenivån kontrolleras genom nivåglaset på sidan av motorn.
 
 Mopeden ska stå upprätt och på plant underlag vid kontrollen.
 
-TODO: Dokumentera markeringarna på nivåglaset och exakt rekommenderad nivå.
+![nivåglaset](../bilder/service/motorolja/nivaglaset.JPEG)
+
 
 ## Byte av motorolja
 
@@ -44,6 +47,7 @@ Motoroljan byts vid varje ordinarie service. Se [Serviceintervall](serviceinterv
 
 Ett uppsamlingskärl på **minst 1 liter** är tillräckligt för den oljemängd som normalt finns i motorn.
 
+
 ### Lyssna efter onormala motorljud
 
 Efter oljebytet, starta motorn och lyssna efter nytillkomna eller tydligt onormala mekaniska ljud.
@@ -52,6 +56,7 @@ Kraftigt tickande, knackande eller skrapande ljud kan ha flera orsaker och behö
 
 !!! warning "Misstänkt smörjningsproblem"
 Kör inte vidare om det finns stark misstanke om att motorn inte får korrekt smörjning. Bristande oljecirkulation kan snabbt orsaka allvarliga motorskador.
+
 
 ## Oljefiltrering
 
@@ -76,6 +81,7 @@ TODO:
 * verifiera om motorn har centrifugaloljefilter
 * dokumentera hur eventuell centrifugaloljefiltrering nås och rengörs
 * verifiera om Romet anger något särskilt rengöringsintervall
+
 
 ## Hantering av gammal olja
 

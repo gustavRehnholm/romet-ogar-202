@@ -4,6 +4,7 @@ Luftfiltret renar luften innan den går vidare till motorn.
 
 Ett smutsigt eller skadat luftfilter kan begränsa luftflödet och påverka motorns gång. Ett filter eller filterhus som inte tätar ordentligt kan istället släppa in damm och smuts i motorn.
 
+
 ## Placering
 
 Luftfiltrets exakta placering och åtkomst på Romet Ogar 202 Euro 5 är ännu inte verifierad.
@@ -19,6 +20,7 @@ TODO:
 
 !!! note "EVAP-systemet"
 Behållaren märkt **GSGY-120**, med anslutningar märkta bland annat `purge`, `tank`, `air` och `drain`, hör till bränslets avdunstningssystem (EVAP) och är inte motorns luftfilter.
+
 
 ## Inspektion
 
@@ -46,6 +48,7 @@ Kontrollera samtidigt att luftfilterhuset:
 * inte innehåller större mängder smuts eller vatten
 * har hela och korrekt anslutna luftslangar
 
+
 ## Rengöring eller byte
 
 Hur filtret ska rengöras beror på vilken typ av filterelement som används.
@@ -62,6 +65,7 @@ Ett pappersfilter ska normalt inte tvättas eller oljas på samma sätt som ett 
 
 Om filtret är skadat eller inte längre kan rengöras tillfredsställande bör det bytas.
 
+
 ## Montering
 
 Vid återmontering:
@@ -73,6 +77,7 @@ Vid återmontering:
 5. Återmontera demonterade kåpor och delar.
 
 Det är viktigt att luft inte kan ta sig förbi filtret genom en dåligt tätande kant eller ett felaktigt stängt filterhus.
+
 
 ## Efter kontroll
 

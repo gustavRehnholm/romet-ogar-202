@@ -3,10 +3,11 @@
 Här beskrivs kontroll, rengöring, smörjning och justering av drivkedjan på
 **Romet Ogar 202, årsmodell 2022**.
 
-Enligt instruktionsboken ska kedjan rengöras från smuts och grus ungefär
+Kedjan ska rengöras från smuts och grus ungefär
 var 14:e dag och hållas inoljad. Kedjespelet ska vara **15–25 mm**.
 
 ![Rekommenderat kedjespel](../bilder/service/kedja/kedjespanning.JPEG)
+
 
 ## Rengöring
 
@@ -17,6 +18,7 @@ Applicera på kedjan och torka därefter ren med en trasa.
 
 Undvik att få rengöringsmedel på däck eller in i bromstrummorna.
 
+
 ## Smörjning
 
 Efter rengöring ska kedjan smörjas.
@@ -24,8 +26,3 @@ Efter rengöring ska kedjan smörjas.
 Motorolja fungerar som ett enkelt smörjmedel och finns redan tillgänglig
 vid övrig service av mopeden. Applicera en liten mängd på kedjans länkar,
 exempelvis med en doseringsspruta, och torka därefter bort överflödig olja.
-
-
-## Justering
-
-TODO: Dokumentera justering av kedjespel och uppriktning av bakhjulet.

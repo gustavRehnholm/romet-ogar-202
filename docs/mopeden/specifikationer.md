@@ -16,6 +16,7 @@ Tekniska specifikationer för **Romet Ogar 202, årsmodell 2022**.
 | Avgasklass                  | Euro 5                                                   |
 | Konstruktiv maxhastighet    | 45 km/h                                                  |
 
+
 ## Motor
 
 | Egenskap       | Specifikation                        |
@@ -29,9 +30,6 @@ Tekniska specifikationer för **Romet Ogar 202, årsmodell 2022**.
 | Startsystem    | Elstart och kickstart                |
 
 
-
-Se även [Motorolja](../service/motorolja.md), [Ventilspel](../service/ventilspel.md) och [Tändstift](../service/tandstift.md).
-
 ## Transmission
 
 | Egenskap     | Specifikation     |
@@ -41,7 +39,7 @@ Se även [Motorolja](../service/motorolja.md), [Ventilspel](../service/ventilspe
 | Växellägen   | 1 – N – 2 – 3 – 4 |
 | Slutdrift    | Kedja             |
 
-Se [Kedja och drev](../service/kedja.md) för kontroll, rengöring, smörjning och justering.
+
 
 ## Bränsle
 
@@ -51,7 +49,7 @@ Se [Kedja och drev](../service/kedja.md) för kontroll, rengöring, smörjning o
 | Tankvolym                  | ca 7 liter    |
 | Angiven bränsleförbrukning | ca 0,2 l/mil  |
 
-Se även [Bränslesystem / tomgång](../service/branslesystem-tomgang.md) och [Bränslefilter](../service/branslefilter.md).
+
 
 ## Hjul och bromsar
 
@@ -63,7 +61,6 @@ Se även [Bränslesystem / tomgång](../service/branslesystem-tomgang.md) och [B
 
 Hjulen är ekrade och använder innerslang.
 
-Se [Hjul och däck](../hjul-och-dack/index.md) samt [Hjul, styrning och fjädring](../service/hjul-styrning-fjadring.md).
 
 ## Elsystem
 
@@ -75,7 +72,7 @@ Se [Hjul och däck](../hjul-och-dack/index.md) samt [Hjul, styrning och fjädrin
 | Batterityp     | Konventionellt vått bly/syrabatteri |
 | Säkringar      | 4 × 15 A standard flatstiftssäkring |
 
-Mer detaljer om batteri, säkringar och elektriska komponenter finns under [El och bränsle](../el-och-bransle/index.md).
+
 
 ## Mått och vikt
 
@@ -87,6 +84,7 @@ Mer detaljer om batteri, säkringar och elektriska komponenter finns under [El o
 | Vikt                        | ca 85 kg      |
 | Max tekniskt tillåten massa | 235 kg        |
 
+
 ## Buller
 
 Typbrickan anger:
@@ -96,6 +94,7 @@ Typbrickan anger:
 | Stillastående bullernivå | 82 dB(A)      |
 | Mätvarvtal               | 3750 rpm      |
 
+
 ## Identifiering
 
 Typbrickan och ramnumret sitter på ramen.
@@ -104,11 +103,12 @@ Det dokumenterade exemplarets VIN börjar med `LY4`. Det fullständiga ramnumret
 
 Typbrickan anger tillverkaren som **Chongqing Yingang Science & Technology (Group) Co., Ltd.** och bekräftar bland annat fordonskategori L1e-B, effekt, maxhastighet och viktuppgifter ovan.
 
+
 ## Avvikelser från generella produktuppgifter
 
 Vissa uppgifter för det dokumenterade exemplaret skiljer sig från generella produktuppgifter för Ogar 202.
 
-- Typbrickan anger motoreffekten till **2,2 kW**, medan Romet Sveriges produktinformation anger **3,5 hk**.
+- Typbrickan anger motoreffekten till **2,2 kW**, medan Romet Sveriges produktinformation anger **3,5 hk (2.6kW)**.
 - Det dokumenterade exemplaret har **2.25-17** framdäck, medan Romet Sveriges produktinformation anger **2.50-17**.
 
 När uppgifter skiljer sig prioriterar denna dokumentation märkningar och mått som har verifierats på det dokumenterade exemplaret.

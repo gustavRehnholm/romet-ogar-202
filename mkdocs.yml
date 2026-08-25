@@ -36,7 +36,7 @@ nav:
 
       - Drivlina:
           - Koppling: service/koppling.md
-          - Kedja och drev: service/kedja.md
+          - Kedja: service/kedja.md
 
       - Bromsar och chassi:
           - Bromskontroll: service/bromskontroll.md
@@ -44,22 +44,6 @@ nav:
 
       - Elsystem: service/elsystem.md
       - Allmän kontroll: service/allman-kontroll.md
-
-  - Hjul och däck:
-      - Översikt: hjul-och-dack/index.md
-      - Däckbyte: hjul-och-dack/dackbyte.md
-      - Ekrar och riktning: hjul-och-dack/ekrar-och-riktning.md
-
-  - Bromsar:
-      - Översikt: bromsar/index.md
-      - Frambroms: bromsar/frambroms.md
-      - Bakbroms: bromsar/bakbroms.md
-
-  - El och bränsle:
-      - Översikt: el-och-bransle/index.md
-      - Batteri: el-och-bransle/batteri.md
-      - Tändning: el-och-bransle/tandning.md
-      - Insprutning: el-och-bransle/insprutning.md
 
   - Felsökning:
       - Översikt: felsokning/index.md

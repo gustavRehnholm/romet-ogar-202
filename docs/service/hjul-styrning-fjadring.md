@@ -4,6 +4,7 @@ Kontrollen omfattar däck, fälgar, ekrar, hjullager, styrning, styrlager och fj
 
 Flera av kontrollerna görs enklast med mopeden på mittstödet.
 
+
 ## Däck
 
 Kontrollera båda däcken efter:
@@ -18,12 +19,14 @@ Kontrollera båda däcken efter:
 
 Kontrollera även att däcket sitter jämnt på fälgen. Linjen eller kanten som är gjuten i däcksidan nära fälgen bör ligga ungefär lika långt från fälgkanten runt hela hjulet.
 
+
 ### Däcktryck
 
 Rekommenderat däcktryck:
 
 * **Fram: 2,0–2,2 bar**
 * **Bak: 2,0–2,2 bar**
+
 
 ### Däckens ålder
 
@@ -34,6 +37,7 @@ Exempel:
 `4921` = vecka 49 år 2021.
 
 Däckets skick är viktigare än enbart åldern. Äldre däck bör dock kontrolleras extra noggrant efter sprickor, hårdnat gummi och deformationer.
+
 
 ## Ekrar
 
@@ -54,6 +58,7 @@ En eker som känns betydligt lösare eller låter tydligt annorlunda än de omkr
 !!! warning "Skadade ekrar"
 En avbruten eller mycket lös eker bör åtgärdas. Kontrollera samtidigt övriga ekrar och att fälgen fortfarande löper rakt.
 
+
 ## Fälgar
 
 Kontrollera fälgarna efter:
@@ -64,9 +69,11 @@ Kontrollera fälgarna efter:
 * skador vid ekerhålen
 * andra synliga deformationer
 
+
 ### Kontrollera att fälgen löper rakt
 
 Hjulet behöver kunna rotera fritt från marken.
+
 
 #### Framhjul
 
@@ -74,9 +81,11 @@ Ställ mopeden på mittstödet.
 
 En andra person kan försiktigt trycka ned pakethållaren så att framhjulet lyfts från marken.
 
+
 #### Bakhjul
 
 Med mopeden på mittstödet är bakhjulet fritt från marken.
+
 
 ### Kontroll
 
@@ -96,6 +105,7 @@ Små variationer kan förekomma, men tydligt kast bör undersökas närmare.
 
 TODO: Dokumentera lämpliga toleranser för sidokast och höjdkast om tillförlitliga uppgifter för Ogar 202 hittas.
 
+
 ## Hjullager
 
 Med hjulet lyft från marken:
@@ -111,6 +121,7 @@ Det ska inte finnas något tydligt glapp i hjullagren.
 !!! note "Bakhjulet"
 Bakhjulets rotation påverkas av kedja, drev och drivlina och kommer därför inte nödvändigtvis att snurra lika lätt som framhjulet.
 
+
 ## Hjulaxlar och infästningar
 
 Kontrollera visuellt att:
@@ -121,6 +132,7 @@ Kontrollera visuellt att:
 * kedjejusteringen på bakhjulet inte ser sned eller ojämn ut
 
 Dra inte åt hjulaxlar på måfå om rätt åtdragningsmoment inte är känt.
+
 
 ## Styrning och styrlager
 
@@ -135,6 +147,7 @@ Med framhjulet lyft från marken:
 5. Kontrollera att styrningen kan röra sig hela vägen åt båda hållen.
 
 Styrningen ska röra sig jämnt utan att kärva eller kännas hackig.
+
 
 ### Kontroll av styrlager
 
@@ -152,6 +165,7 @@ TODO:
 
 * dokumentera hur styrlagret justeras
 * dokumentera eventuella åtdragningsmoment
+
 
 ## Framgaffel
 
@@ -174,6 +188,7 @@ Tryck ned framänden några gånger och kontrollera att:
 
 En tunn smutsrand runt tätningen behöver inte innebära ett aktivt oljeläckage. Rengör området och kontrollera igen.
 
+
 ### Gaffelolja
 
 Gaffeloljan kan behöva bytas vid exempelvis:
@@ -193,6 +208,7 @@ TODO:
 
 !!! warning "Gaffelolja"
 Fyll inte på eller byt gaffelolja innan rätt oljetyp och mängd/nivå har verifierats för Ogar 202.
+
 
 ## Bakfjädring
 

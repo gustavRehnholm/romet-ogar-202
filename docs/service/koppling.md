@@ -2,6 +2,7 @@
 
 Kontrollen omfattar kopplingshandtag, vajer, fritt spel och kopplingens funktion.
 
+
 ## Kopplingshandtag och vajer
 
 Kontrollera att:
@@ -13,25 +14,15 @@ Kontrollera att:
 - vajerns infästningar sitter ordentligt
 - kopplingsarmen vid motorn rör sig och återgår korrekt
 
+
 ## Kopplingshandtagets fria spel
 
 Verkstadsdokumentation för **FY139FMB-motorn** anger ett fritt spel på **3–4 mm** vid kopplingshandtaget.
 
-Spelet mäts genom att försiktigt dra in handtaget tills ett tydligt motstånd börjar kännas.
+För litet spel kan göra att kopplingen inte kopplar in helt. För stort spel kan göra att kopplingen inte frikopplar helt, eller att det kräver onödigt stora handrörelser för att växla. 
 
-!!! note "Motorfamiljsdata"
-    Värdet 3–4 mm kommer från dokumentation för FY139FMB-motorn och har ännu inte verifierats i Ogar-specifik verkstadsdokumentation för Romet Ogar 202 FI Euro 5.
+![Justering Koppingens vajer](../bilder/service/branslefilter/koppling.JPEG)
 
-    Om kopplingen inte fungerar korrekt trots att spelet ligger inom detta område bör värdet därför inte betraktas som definitivt för Ogar 202.
-
-För litet spel kan göra att kopplingen inte kopplar in helt. För stort spel kan göra att kopplingen inte frikopplar helt.
-
-TODO:
-
-- dokumentera exakt hur spelet mäts på Ogar 202
-- dokumentera justeringen vid handtaget
-- dokumentera eventuell ytterligare justering vid motorn
-- lägg till bilder på mätning och justerpunkter
 
 ## Funktionskontroll
 

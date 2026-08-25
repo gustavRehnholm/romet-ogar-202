@@ -4,6 +4,7 @@ Den här sidan samlar de källor som används för dokumentationen av **Romet Og
 
 Källorna varierar i hur specifika de är för just denna årsmodell. Därför bör uppgifter som är viktiga vid service eller reservdelsköp jämföras med mopeden och, när det är möjligt, flera källor.
 
+
 ## Romet Sverige
 
 **Webbplats:** [rometsverige.se](https://rometsverige.se)
@@ -23,9 +24,7 @@ Romet Sveriges produktsida för Ogar 202 innehåller grundläggande tekniska spe
 
 Den används främst som källa för uppgifterna på [Specifikationer](specifikationer.md).
 
-### Romet Ogar 202
 
-[Produktsida för Romet Ogar 202](https://rometsverige.se/produkt/romet-pony-mini-50-kopia/)
 
 ## Svensk instruktionsbok
 
@@ -65,6 +64,7 @@ Manualens upphovsrättsinformation anger att länken till manualen får delas, m
 Därför länkas originalet här istället för att en kopia lagras i detta projekt.
 ```
 
+
 ## Ogar Chaka – YouTube
 
 **Kanal:** [Ogar Chaka](https://www.youtube.com/@ogarchaka655)
@@ -83,7 +83,8 @@ Exempel på innehåll:
 Informationen kommer från en enskild ägares erfarenheter och bör därför inte behandlas som tillverkardokumentation. Utförandet på mopeden kan också skilja mellan årsmodeller.
 
 
-### Motocykle Wińscy
+
+## Motocykle Wińscy
 
 [Motocykle Wińscy – Romet Ogar 202 50](https://sklep.skutery.olsztyn.pl/pl/c/Ogar-202-50/481)
 
@@ -98,7 +99,7 @@ Anger bland annat:
 Källan är användbar som kompletterande servicedata, men är inte officiell dokumentation från Romet.
 
 
-### Sachs MadAss 50 – FY139FMB Service Manual
+## Sachs MadAss 50 – FY139FMB Service Manual
 
 Verkstadshandbok för Sachs MadAss 50 med **FY139FMB-motor**.
 
@@ -121,18 +122,4 @@ Handboken gäller inte specifikt Romet Ogar 202. Uppgifter som mått, toleranser
 [Sachs MadAss 50 – FY139FMB Service Manual](https://scootergrisen.org/scooterhjemmeside/download/sachs_madass_servicemanual_2.pdf)
 
 
-
-## Egna observationer och mätningar
-
-En del av dokumentationen bygger på observationer och kontroller av det exemplar av **Romet Ogar 202 årsmodell 2022** som dokumentationen utgår från.
-
-Sådana uppgifter kan bland annat användas för att dokumentera:
-
-* komponenters placering
-* märkningar och artikelnummer
-* dimensioner
-* hur delar demonteras och monteras
-* praktiska erfarenheter från service och reparation
-
-När en uppgift bygger på en ungefärlig mätning eller ännu inte har kunnat verifieras bör detta framgå på den aktuella sidan.
 

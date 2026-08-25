@@ -2,45 +2,23 @@
 
 Kontrollen omfattar bränslesystemets slangar och anslutningar samt att motorn har en stabil tomgång och reagerar normalt på gaspådrag.
 
-Romet Ogar 202 FI Euro 5 har elektronisk bränsleinsprutning. Instruktionsbokens generella instruktioner om förgasarens tomgångs- och blandningsskruvar gäller därför inte denna version.
 
 ## Bränslesystem
 
 Kontrollera visuellt:
 
-* att det inte finns något bränsleläckage
-* att bränsleslangarna inte är spruckna, skadade eller vikta
-* att slangar och anslutningar sitter ordentligt
-* att slangklämmor sitter på plats
-* att bränslekranen inte läcker
+* att slangar och anslutningar sitter ordentligt och inte är skadade
 * att bränslekranen går att manövrera
-* att bränslefiltret och dess anslutningar inte läcker
 * att synliga elektriska anslutningar till bränslesystemet sitter ordentligt
 
 Kontroll och byte av själva bränslefiltret beskrivs separat under **Bränslefilter**.
 
-## Bränslekran
-
-Kontrollera kranen efter läckage och skador.
-
-Prova att den går att ställa mellan sina lägen utan att kärva.
-
-Efter kontroll ska kranen återställas till normalt körläge.
-
-TODO: Lägg till bild och dokumentera kranens lägen och markeringar.
 
 ## EVAP-system
 
-Euro 5-versionen har ett system för hantering av bränsleångor.
+Euro 5-versionen har ett EVAP system för hantering av bränsleångor.
 
-Kontrollera synliga slangar efter:
-
-* sprickor eller andra skador
-* lösa anslutningar
-* slangar som har klämts eller vikts
-* uppenbara läckage
-
-På mopeden finns en behållare märkt **GSGY-120** med anslutningar märkta bland annat `tank`, `purge`, `air` och `drain`.
+Kontrollera efter skador och dylikt.
 
 ![EVAP systemets placering](../bilder/service/branslesystem-tomgang/evap.JPEG)
 
@@ -66,19 +44,10 @@ Kontrollera att:
 
 * gashandtaget rör sig jämnt utan att kärva
 * handtaget återgår snabbt och helt när det släpps
-* gasvajern inte är skadad, fransig eller kraftigt böjd
-* vajer och anslutningar sitter ordentligt
-* det finns en mindre fri gång i gashandtaget innan gasen börjar påverkas
-* den fria gången inte är så stor att gaspådraget blir tydligt fördröjt
+* vajer och anslutningar sitter ordentligt och inte är skadade
 * motorns tomgång inte påverkas när styret vrids fullt åt höger eller vänster
+* att vajern är lagom spänd. Ingen gas vid normalläget och inget stort spel innan gasen aktiveras. Se bilden nedan för vart vajerns spänning justeras
 
-Gasvajern ska alltså inte vara så spänd att motorn får gas när handtaget är i normalläge, men inte heller så lös att en större del av handtagets rörelse går åt till att ta upp vajerspelet.
-
-TODO:
-
-* hitta och verifiera specificerat spel för gasvajern
-* dokumentera var gasvajern justeras
-* lägg till bild på justeringen
-* dokumentera hur spelet mäts på gashandtaget
+![Gasreglaget](../bilder/service/branslesystem-tomgang/gasreglage.JPEG)
 
 

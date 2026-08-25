@@ -4,6 +4,7 @@ Den här sidan samlar dimensioner, märkningar och annan information som är anv
 
 För allmänna fordonsdata, se [Specifikationer](specifikationer.md).
 
+
 ## Hjul och däck
 
 ### Fram
@@ -12,8 +13,7 @@ För allmänna fordonsdata, se [Specifikationer](specifikationer.md).
 | --------- | ------------------- |
 | Fälg      | 17 × 1.20           |
 | Däck      | 2.25-17             |
-| Ventil    | TODO                |
-| Hjullager | TODO                |
+
 
 ### Bak
 
@@ -21,28 +21,7 @@ För allmänna fordonsdata, se [Specifikationer](specifikationer.md).
 | --------- | ------------------- |
 | Fälg      | 17 × 1.40           |
 | Däck      | 2.75-17             |
-| Ventil    | TODO                |
-| Hjullager | TODO                |
 
-Se även [Hjul och däck](../hjul-och-dack/index.md).
-
-## Ekrar
-
-### Framhjul
-
-| Egenskap | Uppgift |
-| -------- | ------- |
-| Eker     | TODO    |
-| Nippel   | TODO    |
-
-### Bakhjul
-
-| Egenskap | Uppgift                                            |
-| -------- | -------------------------------------------------- |
-| Eker     | ca 160 mm lång, ca 3,0–3,2 mm diameter (uppmätt)   |
-| Nippel   | TODO                                               |
-
-Se [Ekrar](../hjul-och-dack/ekrar.md) för kontroll, byte och annan information om ekrarna.
 
 ## Kedja och drev
 
@@ -53,7 +32,7 @@ Se [Ekrar](../hjul-och-dack/ekrar.md) för kontroll, byte och annan information 
 | Framdrev     | TODO                |
 | Bakdrev      | TODO                |
 
-Se [Kedja](../service/kedja.md) för service och justering.
+
 
 ## Motor
 
@@ -67,7 +46,6 @@ Se [Kedja](../service/kedja.md) för service och justering.
 | Nyckelvidd  | 16 mm                          |
 | Elektrodgap | 0,6 mm                         |
 
-Se [Tändstift](../service/tandstift.md).
 
 ## Bränslesystem
 
@@ -80,7 +58,7 @@ Se [Tändstift](../service/tandstift.md).
 | Slangdimension      | 6 mm                 |
 | Romet-artikelnummer | 02-DYJ-814400-CBC000 |
 
-Se [Bränslefilter](../service/branslefilter.md).
+
 
 ### Luftfilter
 
@@ -90,7 +68,7 @@ Se [Bränslefilter](../service/branslefilter.md).
 | Dimension     | TODO                  |
 | Artikelnummer | TODO                  |
 
-Se [Luftfilter](../service/luftfilter.md).
+
 
 ### Bränsleångor / EVAP
 
@@ -99,9 +77,7 @@ Se [Luftfilter](../service/luftfilter.md).
 | Märkning      | GSGY-120                              |
 | Anslutningar  | `air`, `drain`, `purge`, `tank`       |
 | Funktion      | System för hantering av bränsleångor  |
-| Artikelnummer | TODO                                  |
 
-Systemet har anslutningar mot bland annat bränsletank och motor. Exakt uppbyggnad och komponenternas funktion återstår att dokumentera närmare.
 
 ### Insprutning / gasspjällshus
 
@@ -130,27 +106,7 @@ Systemet har anslutningar mot bland annat bränsletank och motor. Exakt uppbyggn
 | Placering  | Motor / topplock               |
 | Funktion   | Temperaturinformation till ECU |
 
-## Bromsar
 
-### Frambroms
-
-| Del          | Dimension / uppgift |
-| ------------ | ------------------- |
-| Bromstyp     | Mekanisk trumbroms  |
-| Bromsbackar  | TODO                |
-| Trumdiameter | TODO                |
-| Bromsvajer   | TODO                |
-
-### Bakbroms
-
-| Del          | Dimension / uppgift |
-| ------------ | ------------------- |
-| Bromstyp     | Mekanisk trumbroms  |
-| Bromsbackar  | TODO                |
-| Trumdiameter | TODO                |
-| Bromsstag    | TODO                |
-
-Se [Bromsar](../bromsar/index.md).
 
 ## Elsystem
 
@@ -165,11 +121,13 @@ Se [Bromsar](../bromsar/index.md).
 | Polställning | − vänster, + höger sett från märkningssidan     |
 | Batterityp   | Konventionellt vått bly/syrabatteri             |
 
+
 ### Säkringar
 
 | Placering / funktion          | Typ                                    | Storlek  |
 | ----------------------------- | -------------------------------------- | -------- |
 | Säkringshållare vid batteriet | Standard flatstiftssäkring (ATO/ATC)   | 15 A × 4 |
+
 
 ### ECU / motorstyrenhet
 
@@ -183,6 +141,7 @@ Se [Bromsar](../bromsar/index.md).
 | Produktionsmärkning| `211202`               |
 | Serienummer        | `SE08202112030119`     |
 
+
 ## Lampor
 
 | Placering           | Typ / sockel | Effekt |
@@ -192,25 +151,6 @@ Se [Bromsar](../bromsar/index.md).
 | Blinkers fram       | TODO         | TODO   |
 | Blinkers bak        | TODO         | TODO   |
 
-## Lager och tätningar
-
-| Placering | Dimension / beteckning |
-| --------- | ---------------------- |
-| Framhjul  | TODO                   |
-| Bakhjul   | TODO                   |
-| Styrhuvud | TODO                   |
-| Sving     | TODO                   |
-
-## Skruvar, muttrar och verktygsstorlekar
-
-Här kan verifierade mått som är praktiska vid service samlas efter hand.
-
-| Placering     | Gänga / dimension | Verktyg |
-| ------------- | ----------------- | ------- |
-| Bakaxel       | TODO              | TODO    |
-| Framaxel      | TODO              | TODO    |
-| Oljeplugg     | TODO              | TODO    |
-| Kedjespännare | TODO              | TODO    |
 
 ## Reservdelsnummer
 
@@ -226,6 +166,7 @@ Här samlas verifierade artikel- och katalognummer för delar som passar Romet O
 | Ljuddämpare / avgassystem      | 02-DYJ-144000-BA8001 | Gmoto               |
 | Fälgband 17 tum                | 02-DYJ-612230-000010 | Gmoto               |
 | Fjäder, bakre bromsljuskontakt | 02-BG3-820004-000016 | Gmoto               |
+
 
 ### Verifierade ersättningsdelar
 

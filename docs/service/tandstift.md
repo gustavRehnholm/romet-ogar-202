@@ -5,7 +5,7 @@ Tändstiftet antänder bränsle-/luftblandningen i motorn och är samtidigt en a
 
 ## Demontering
 
-Arbeta helst med kall motor. Tändstiftet och topplocket blir mycket varma under körning, och gängorna bör inte belastas i onödan när motorn är varm.
+Arbeta med kall motor. Tändstiftet och topplocket blir mycket varma under körning, och gängorna bör inte belastas i onödan när motorn är varm.
 
 1. Ta försiktigt bort tändhatten genom att greppa själva tändhatten, inte kabeln.
 2. Rengör runt tändstiftet så att smuts inte faller ner i motorn när stiftet tas bort.
@@ -13,6 +13,7 @@ Arbeta helst med kall motor. Tändstiftet och topplocket blir mycket varma under
 4. Skruva därefter ur det försiktigt för hand.
 
 ![Placering av tändstift](../bilder/service/tandstift/tandstift.JPEG)
+
 
 ## Inspektion
 
@@ -26,6 +27,7 @@ Kontrollera:
 * skadade eller slitna gängor
 * skador på tätningen
 
+
 ### Elektrodgap
 
 Elektrodgapet ska vara **0,6 mm** för C7HSA-typen.
@@ -34,13 +36,16 @@ Mät helst med bladmått.
 
 Om elektroderna är kraftigt slitna bör stiftet bytas istället för att enbart justera gapet.
 
+
 ## Bedömning av tändstiftet
 
 Tändstiftets utseende kan ge ledtrådar om motorns förbränning, men färgen ska inte användas som ensam diagnos.
 
+
 ### Normalt
 
 Ett torrt stift med måttliga ljusbruna, gråaktiga eller liknande avlagringar tyder normalt inte på något uppenbart problem.
+
 
 ### Svart och sotigt
 
@@ -52,13 +57,16 @@ Svarta torra avlagringar kan bland annat förekomma vid:
 * problem med tändningen
 * olämpligt tändstift
 
+
 ### Vått av bensin
 
 Ett bensinblött tändstift kan tyda på att bränsle kommer in i cylindern utan att förbrännas ordentligt, exempelvis vid startproblem eller utebliven gnista.
 
+
 ### Oljigt
 
 Olja på elektroddelen kan tyda på att motorolja kommer in i förbränningsrummet och bör undersökas närmare.
+
 
 ### Mycket ljust eller skadat
 
@@ -66,6 +74,7 @@ Ett ovanligt ljust, överhettat eller skadat tändstift kan vara tecken på för
 
 !!! note "Tändstiftets färg"
 Tändstiftets utseende påverkas av bland annat körsätt, motortemperatur, bränsle och hur länge motorn har körts. Bedöm därför inte motorns skick enbart utifrån stiftets färg.
+
 
 ## Montering
 

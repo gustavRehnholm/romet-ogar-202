@@ -2,6 +2,7 @@
 
 Avgassystemet ska kontrolleras efter skador, läckage, korrosion och lösa infästningar.
 
+
 ## Visuell kontroll
 
 Kontrollera hela avgassystemet från cylindern till ljuddämparen.
@@ -16,6 +17,7 @@ Leta efter:
 * skadad eller lös värmesköld
 
 Ytrost behöver inte innebära att avgassystemet behöver bytas, men kraftig rost bör undersökas närmare för att kontrollera att godset inte blivit försvagat.
+
 
 ## Kontrollera efter avgasläckage
 
@@ -33,6 +35,7 @@ Svarta sotspår runt en skarv kan vara ett tecken på att avgaser läcker ut dä
 !!! warning "Varmt avgassystem"
 Avgassystemet blir mycket varmt under körning. Undvik att röra avgasrör, ljuddämpare och lambdasond när motorn är varm.
 
+
 ## Infästningar
 
 Med motorn avstängd och avgassystemet kallt:
@@ -43,6 +46,7 @@ Med motorn avstängd och avgassystemet kallt:
 4. Kontrollera efter sprickor runt fästpunkterna.
 
 Avgassystemet ska sitta stadigt utan att kunna slå mot ram eller andra komponenter.
+
 
 ## Lambdasond
 

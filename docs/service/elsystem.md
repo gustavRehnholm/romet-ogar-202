@@ -2,6 +2,7 @@
 
 Kontrollen omfattar belysning, blinkers, signalhorn, batteri samt synligt kablage och elektriska anslutningar.
 
+
 ## Belysning
 
 Slå på tändningen och starta motorn om det behövs för att kontrollera samtliga funktioner.
@@ -12,46 +13,20 @@ Kontrollera:
 * helljus
 * bakljus
 * bromsljus
-* registreringsskyltens belysning
+* blinkers
 * instrumentbelysning
-* helljusindikering
-* övriga kontrollampor
+  - helljusindikering
+  - blinkersindikering
+  - växelindikering
+  - motorkontrollampor (lyser innan startat motorn)
 
-Kontrollera att lamporna:
-
-* tänds som de ska
-* lyser stabilt utan tydligt flimmer
-* inte är ovanligt svaga
-* inte har skadade glas eller lyktor
-* sitter ordentligt fast
-
-Bromsljusets funktion kontrolleras även som en del av [Bromskontroll](bromskontroll.md).
-
-TODO:
-
-* dokumentera vilka lampor/ljuskällor som används
-* lägg till bilder på åtkomst och byte
-* verifiera vilka lampor som kan bytas separat
-
-## Blinkers
-
-Kontrollera höger och vänster sida.
-
-Kontrollera att:
-
-* både främre och bakre blinkers fungerar
-* blinkersen blinkar med jämn takt
-* indikatorn på instrumentpanelen fungerar
-* blinkersreglaget fungerar utan att kärva
-* blinkershus och infästningar är hela
-
-Onormalt snabb eller långsam blinkfrekvens kan tyda på fel i någon lampa eller annan del av blinkerskretsen.
 
 ## Signalhorn
 
 Tryck på signalhornet och kontrollera att det ger ett tydligt och stabilt ljud.
 
 Ett mycket svagt eller oregelbundet signalhorn kan bland annat motivera kontroll av batteri, anslutningar och själva signalhornet.
+
 
 ## Batteri
 
@@ -67,13 +42,8 @@ Kontrollera batteriet efter:
 
 Kontrollera att plus- och minuskabeln sitter ordentligt.
 
-TODO:
 
-* verifiera originalbatteriets typ och kapacitet
-* dokumentera batteriets placering och åtkomst
-* dokumentera hur batteriet demonteras
-
-## Batterispänning och laddning
+### Batterispänning och laddning
 
 Vid misstanke om batteri- eller laddningsproblem kan spänningen mätas med multimeter.
 
@@ -84,6 +54,7 @@ TODO:
 * dokumentera mätpunkter och procedur
 
 Om batteriet återkommande laddas ur trots att det är i gott skick bör laddningssystemet undersökas närmare.
+
 
 ## Kablage och kontakter
 
